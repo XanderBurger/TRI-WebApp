@@ -7,11 +7,20 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+      colors:{
+        "warm-white":"#FAECD8",
+        "black-green":"#161A17",
+        "gray-green":"#1F2420",
+        "bright-blue": "#0EF1FF",
+        "bright-green": "#16FF58",
+        "bright-yellow": "#FF9F0E",
+        "bright-purple": "#CD29F6",
+        "bright-red": "#FF2056",
       },
+      fontFamily: {
+        'satoshi': ["Satoshi-Variable", "san-serif"],
+        'satoshiItalic': ["Satoshi-VariableItalic", "san-serif"],
+      }
     },
   },
   plugins: [],

@@ -2,26 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+@font-face {
+  font-family: "Satoshi-Variable";
+  src: local("Satoshi-Variable"), url(./assets/fonts/Satoshi-Variable.ttf) format('opentype');
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+@font-face {
+  font-family: "Satoshi-VariableItalic";
+  src: local("Satoshi-VariableItalic"), url(./assets/fonts/Satoshi-VariableItalic.ttf) format('opentype');
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+html {
+  --scroll-behavior: smooth!important;
+  scroll-behavior: smooth!important;
+ 
+}
+
+body{
+  -moz-osx-font-smoothing: grayscale;
 }
