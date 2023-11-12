@@ -1,0 +1,8497 @@
+[
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,1,1,2-Tetrachloro-2-fluoroethane (HCFC-121a)",
+  "Amount":1940.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,1,1,2-Tetrachloro-2-fluoroethane (HCFC-121a)",
+  "Amount":15885.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,1,1,2-Tetrachloroethane",
+  "Amount":5371.22
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,1,1,2-Tetrachloroethane",
+  "Amount":66.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,1,1,2-Tetrachloroethane",
+  "Amount":583410.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,1,1-Trichloroethane",
+  "Amount":41116.326
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,1,1-Trichloroethane",
+  "Amount":454.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,1,1-Trichloroethane",
+  "Amount":54.264
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,1,1-Trichloroethane",
+  "Amount":0.094
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,1,1-Trichloroethane",
+  "Amount":30639.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,1,2,2-Tetrachloroethane",
+  "Amount":2865.952
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,1,2,2-Tetrachloroethane",
+  "Amount":8.907
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,1,2,2-Tetrachloroethane",
+  "Amount":3.007
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,1,2,2-Tetrachloroethane",
+  "Amount":811775.8199999999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,1,2-Trichloroethane",
+  "Amount":22528.325
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,1,2-Trichloroethane",
+  "Amount":96.7395
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,1,2-Trichloroethane",
+  "Amount":23.117
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,1,2-Trichloroethane",
+  "Amount":1.015
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,1,2-Trichloroethane",
+  "Amount":327819.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,1-Dichloro-1-fluoroethane (HCFC-141b)",
+  "Amount":5671.1
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,1-Dichloro-1-fluoroethane (HCFC-141b)",
+  "Amount":148.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,1-Dimethylhydrazine",
+  "Amount":2.012
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2,3-Trichloropropane",
+  "Amount":1589.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,2,3-Trichloropropane",
+  "Amount":3010.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,2,3-Trichloropropane",
+  "Amount":165358.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2,4-Trichlorobenzene",
+  "Amount":8685.15
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,2,4-Trichlorobenzene",
+  "Amount":0.2
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,2,4-Trichlorobenzene",
+  "Amount":23613.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,2,4-Trichlorobenzene",
+  "Amount":20467.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2,4-Trimethylbenzene",
+  "Amount":3782014.7178910002
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,2,4-Trimethylbenzene",
+  "Amount":1160.576
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,2,4-Trimethylbenzene",
+  "Amount":75865.144
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,2,4-Trimethylbenzene",
+  "Amount":151094.355264
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"1,2,4-Trimethylbenzene",
+  "Amount":85.996
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"1,2,4-Trimethylbenzene",
+  "Amount":21.7
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,2,4-Trimethylbenzene",
+  "Amount":2988154.3827800001
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Butylene oxide",
+  "Amount":2060.083
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,2-Butylene oxide",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Dibromo-3-chloropropane",
+  "Amount":0.111
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Dibromoethane",
+  "Amount":553.51
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,2-Dibromoethane",
+  "Amount":70.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Dichloro-1,1,2-trifluoroethane (HCFC-123a)",
+  "Amount":98461.56
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Dichloro-1,1-difluoroethane (HCFC-132b)",
+  "Amount":22809.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,2-Dichloro-1,1-difluoroethane (HCFC-132b)",
+  "Amount":13.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Dichlorobenzene",
+  "Amount":20776.8
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,2-Dichlorobenzene",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,2-Dichlorobenzene",
+  "Amount":9.02
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,2-Dichlorobenzene",
+  "Amount":23851.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,2-Dichlorobenzene",
+  "Amount":151.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Dichloroethane",
+  "Amount":410308.343
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,2-Dichloroethane",
+  "Amount":4022.142
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,2-Dichloroethane",
+  "Amount":436.979
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,2-Dichloroethane",
+  "Amount":43649.117
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,2-Dichloroethane",
+  "Amount":752139.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Dichloroethylene",
+  "Amount":42307.83
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,2-Dichloroethylene",
+  "Amount":30.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,2-Dichloroethylene",
+  "Amount":4.27
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,2-Dichloroethylene",
+  "Amount":742070.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Dichloropropane",
+  "Amount":18271.28708
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,2-Dichloropropane",
+  "Amount":291.691
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,2-Dichloropropane",
+  "Amount":12.01
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,2-Dichloropropane",
+  "Amount":302451.4283
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Diphenylhydrazine",
+  "Amount":3.03
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,2-Phenylenediamine",
+  "Amount":159.11953
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,2-Phenylenediamine",
+  "Amount":0.1
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,2-Phenylenediamine",
+  "Amount":2.047584
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,3-Butadiene",
+  "Amount":1203608.4628000001
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,3-Butadiene",
+  "Amount":773.34
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,3-Butadiene",
+  "Amount":1179.004
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,3-Butadiene",
+  "Amount":1446.2
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"1,3-Butadiene",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,3-Butadiene",
+  "Amount":1542306.09372
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,3-Dichlorobenzene",
+  "Amount":3.00104
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,3-Dichlorobenzene",
+  "Amount":137.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,3-Dichloropropylene",
+  "Amount":3414.024
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,3-Dichloropropylene",
+  "Amount":3045.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,3-Dichloropropylene",
+  "Amount":58000.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,3-Dichloropropylene",
+  "Amount":18007.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,3-Phenylenediamine",
+  "Amount":1707.61
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,3-Phenylenediamine",
+  "Amount":2059.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,3-Phenylenediamine",
+  "Amount":541.3
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,3-Propane sultone",
+  "Amount":2.63
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,4-Dichloro-2-butene",
+  "Amount":2445.014
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,4-Dichloro-2-butene",
+  "Amount":98.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,4-Dichloro-2-butene",
+  "Amount":3170.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,4-Dichlorobenzene",
+  "Amount":28593.85
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,4-Dichlorobenzene",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,4-Dichlorobenzene",
+  "Amount":656.25
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,4-Dichlorobenzene",
+  "Amount":429.77
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,4-Dichlorobenzene",
+  "Amount":843.6768
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1,4-Dioxane",
+  "Amount":74740.131922
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1,4-Dioxane",
+  "Amount":65341.67
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1,4-Dioxane",
+  "Amount":70655.493
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1,4-Dioxane",
+  "Amount":503266.012
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1,4-Dioxane",
+  "Amount":5829.5409
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1-(3-Chloroallyl)-3,5,7-triaza-1-azoniaadamantane chloride",
+  "Amount":58000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1-Bromopropane",
+  "Amount":786718.2936
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1-Bromopropane",
+  "Amount":14436.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"1-Bromopropane",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"1-Bromopropane",
+  "Amount":106489.59
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1-Chloro-1,1,2,2-tetrafluoroethane (HCFC-124a)",
+  "Amount":3723.873
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"1-Chloro-1,1-difluoroethane (HCFC-142b)",
+  "Amount":116800.8
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1-Chloro-1,1-difluoroethane (HCFC-142b)",
+  "Amount":3721.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-methyl-",
+  "Amount":0.8
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1-Propanaminium, 2-hydroxy-N,N,N-trimethyl-, 3-[(\u03b3-\u03c9-perfluoro-C6-20-alkyl)thio] derivs., chlorides",
+  "Amount":3000.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-[2-[(\u03b3-\u03c9-perfluoro-C4-20-alkyl)thio]acetyl] derivs., inner salts",
+  "Amount":3000.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"1-Propanesulfonic acid, 2-methyl-, 2-[[1-oxo-3-[(\u03b3-\u03c9-perfluoro-C4-16-alkyl)thio]propyl]amino] derivs., sodium salts",
+  "Amount":24000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,2-Bis(bromomethyl)-1,3-propanediol",
+  "Amount":95.03
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2,2-Bis(bromomethyl)-1,3-propanediol",
+  "Amount":19102.35
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,2-Dichloro-1,1,1-trifluoroethane (HCFC-123)",
+  "Amount":58227.886
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"2,2-Dichloro-1,1,1-trifluoroethane (HCFC-123)",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,3-Dichloropropene",
+  "Amount":2897.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"2,3-Dichloropropene",
+  "Amount":31844.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4,5-Trichlorophenol",
+  "Amount":7.04
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"2,4,5-Trichlorophenol",
+  "Amount":0.1
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"2,4,5-Trichlorophenol",
+  "Amount":171.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4,6-Trichlorophenol",
+  "Amount":310.140213
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2,4,6-Trichlorophenol",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"2,4,6-Trichlorophenol",
+  "Amount":177.002
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4-D",
+  "Amount":1305.921
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"2,4-D",
+  "Amount":231.02
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2,4-D",
+  "Amount":1841.46
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"2,4-D",
+  "Amount":0.027
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"2,4-D",
+  "Amount":40.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"2,4-D",
+  "Amount":625.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4-D 2-butoxyethyl ester",
+  "Amount":41.69
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2,4-D 2-butoxyethyl ester",
+  "Amount":2.86
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4-D 2-ethylhexyl ester",
+  "Amount":4442.5
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"2,4-D 2-ethylhexyl ester",
+  "Amount":461.5
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2,4-D 2-ethylhexyl ester",
+  "Amount":12.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4-D sodium salt",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4-DB",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4-Diaminotoluene",
+  "Amount":674.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2,4-Diaminotoluene",
+  "Amount":786.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"2,4-Diaminotoluene",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4-Dichlorophenol",
+  "Amount":45.318
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2,4-Dichlorophenol",
+  "Amount":7699.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"2,4-Dichlorophenol",
+  "Amount":100455.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4-Dimethylphenol",
+  "Amount":10072.1155
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"2,4-Dimethylphenol",
+  "Amount":367.723
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2,4-Dimethylphenol",
+  "Amount":425.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"2,4-Dimethylphenol",
+  "Amount":933329.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"2,4-Dimethylphenol",
+  "Amount":9.6
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4-Dinitrophenol",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"2,4-Dinitrophenol",
+  "Amount":223286.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,4-Dinitrotoluene",
+  "Amount":2176.385
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2,4-Dinitrotoluene",
+  "Amount":0.011
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"2,4-Dinitrotoluene",
+  "Amount":0.01
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"2,4-Dinitrotoluene",
+  "Amount":6.1
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,6-Dinitrotoluene",
+  "Amount":496.424
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2,6-Xylidine",
+  "Amount":114.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Chloro-1,1,1,2-tetrafluoroethane (HCFC-124)",
+  "Amount":92848.158
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Chloro-1,1,1-trifluoroethane (HCFC-133a)",
+  "Amount":20292.092
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"2-Chloro-1,1,1-trifluoroethane (HCFC-133a)",
+  "Amount":36.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Ethoxyethanol",
+  "Amount":32373.745
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2-Ethoxyethanol",
+  "Amount":135.013
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"2-Ethoxyethanol",
+  "Amount":0.012
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"2-Ethoxyethanol",
+  "Amount":4889.43
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Mercaptobenzothiazole",
+  "Amount":1385.77
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"2-Mercaptobenzothiazole",
+  "Amount":1397.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2-Mercaptobenzothiazole",
+  "Amount":4886.4
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"2-Mercaptobenzothiazole",
+  "Amount":6104.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Methoxyethanol",
+  "Amount":4163.41
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"2-Methoxyethanol",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2-Methoxyethanol",
+  "Amount":195.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"2-Methoxyethanol",
+  "Amount":1875.6
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Methyllactonitrile",
+  "Amount":8231.7
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"2-Methyllactonitrile",
+  "Amount":293279.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Methylpyridine",
+  "Amount":5798.38
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"2-Methylpyridine",
+  "Amount":9.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"2-Methylpyridine",
+  "Amount":42955.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"2-Nitrophenol",
+  "Amount":121.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"2-Nitrophenol",
+  "Amount":4323.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Nitropropane",
+  "Amount":20253.02
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Phenylphenol",
+  "Amount":28.13
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Propenoic acid, butyl ester, telomer with 2-[[(heptadecafluorooctyl)sulfonyl]methylamino]ethyl 2-propenoate, 2-[methyl[(nonafluorobutyl)sulfonyl]amino]ethyl 2-propenoate, \u03b1-(2-methyl-1-oxo-2-propenyl)-\u03c9-hydroxypoly(oxy-1,4-butanediyl), \u03b1-(2-methyl-1-oxo-2-propenyl)-\u03c9-[(2-methyl-1-oxo-2-propenyl)oxy]poly(oxy-1,4-butanediyl), 2-[methyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl 2-propenoate, 2-[methyl[(tridecafluorohexyl)sulfonyl]amino]ethyl 2-propenoate, 2-[methyl[(undecafluoropentyl)sulfonyl]amino]ethyl 2-propenoate and 1-octanethiol",
+  "Amount":0.41
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"2-Propenoic acid, esters, 2-methyl-, dodecyl ester, polymer with \u03b1-fluoro-\u03c9-[2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl]poly(difluoromethylene)",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"3,3'-Dichlorobenzidine dihydrochloride",
+  "Amount":4.86
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"3,3'-Dimethoxybenzidine",
+  "Amount":16.04
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"3,3'-Dimethylbenzidine",
+  "Amount":15.74
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"3-Chloro-1,1,1-trifluoropropane (HCFC-253fb)",
+  "Amount":2291.62
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"3-Chloro-2-methyl-1-propene",
+  "Amount":373.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"3-Chloropropionitrile",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"3-Iodo-2-propynyl butylcarbamate",
+  "Amount":993.63
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"3-Iodo-2-propynyl butylcarbamate",
+  "Amount":12725.28
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"3-Iodo-2-propynyl butylcarbamate",
+  "Amount":326.6
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"3-Iodo-2-propynyl butylcarbamate",
+  "Amount":486.207
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"4,4'-Diaminodiphenyl ether",
+  "Amount":255.26
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"4,4'-Diaminodiphenyl ether",
+  "Amount":404.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"4,4'-Diaminodiphenyl ether",
+  "Amount":141.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"4,4'-Isopropylidenediphenol",
+  "Amount":43579.354
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"4,4'-Isopropylidenediphenol",
+  "Amount":1630.55
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"4,4'-Isopropylidenediphenol",
+  "Amount":2987431.6500980002
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"4,4'-Isopropylidenediphenol",
+  "Amount":3896.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"4,4'-Isopropylidenediphenol",
+  "Amount":817300.4299999999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"4,4'-Methylenebis(2-chloroaniline)",
+  "Amount":16.660009
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"4,4'-Methylenebis(2-chloroaniline)",
+  "Amount":500.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"4,4'-Methylenedianiline",
+  "Amount":1597.08
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"4,4'-Methylenedianiline",
+  "Amount":3328.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"4,4'-Methylenedianiline",
+  "Amount":862.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"4,4'-Methylenedianiline",
+  "Amount":240000.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"4,4'-Methylenedianiline",
+  "Amount":8760.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"4-Aminoazobenzene",
+  "Amount":1337.32
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"4-Aminobiphenyl",
+  "Amount":12.52
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"4-Aminobiphenyl",
+  "Amount":18.78
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"4-Dimethylaminoazobenzene",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"4-Nitrophenol",
+  "Amount":0.034
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"4-Nitrophenol",
+  "Amount":0.19
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"5-Nitro-o-toluidine",
+  "Amount":0.014
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Abamectin",
+  "Amount":7.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Abamectin",
+  "Amount":679.96
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Acephate",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Acephate",
+  "Amount":35449.36
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Acetaldehyde",
+  "Amount":7647178.0570479995
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Acetaldehyde",
+  "Amount":299269.929
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Acetaldehyde",
+  "Amount":17773.723326
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Acetaldehyde",
+  "Amount":254312.01
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Acetaldehyde",
+  "Amount":109.406
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Acetaldehyde",
+  "Amount":7933.27
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Acetaldehyde",
+  "Amount":27618.6442
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Acetamide",
+  "Amount":72.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Acetamide",
+  "Amount":255.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Acetamide",
+  "Amount":1213407.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Acetonitrile",
+  "Amount":776384.7032499999
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Acetonitrile",
+  "Amount":2133.39
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Acetonitrile",
+  "Amount":1331.804
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Acetonitrile",
+  "Amount":21188935.5500000007
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Acetonitrile",
+  "Amount":32.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Acetonitrile",
+  "Amount":4513193.6896000002
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Acetophenone",
+  "Amount":207838.2236
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Acetophenone",
+  "Amount":825.1
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Acetophenone",
+  "Amount":3701.1849
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Acetophenone",
+  "Amount":479320.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Acetophenone",
+  "Amount":1319.449
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Acetophenone",
+  "Amount":4917.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Acifluorfen, sodium salt",
+  "Amount":10.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Acrolein",
+  "Amount":330340.107
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Acrolein",
+  "Amount":581.61
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Acrolein",
+  "Amount":10050.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Acrolein",
+  "Amount":1091.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Acrylamide",
+  "Amount":40728.777
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Acrylamide",
+  "Amount":49.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Acrylamide",
+  "Amount":161727.159
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Acrylamide",
+  "Amount":5343988.0449999999
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Acrylamide",
+  "Amount":1146.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Acrylamide",
+  "Amount":55.3544
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Acrylic acid",
+  "Amount":277555.80274
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Acrylic acid",
+  "Amount":7001.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Acrylic acid",
+  "Amount":397028.2268
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Acrylic acid",
+  "Amount":1150928.0730000001
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Acrylic acid",
+  "Amount":767.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Acrylic acid",
+  "Amount":160065.78
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Acrylonitrile",
+  "Amount":293212.372
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Acrylonitrile",
+  "Amount":107.84
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Acrylonitrile",
+  "Amount":14558.065
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Acrylonitrile",
+  "Amount":7450454.0590000004
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Acrylonitrile",
+  "Amount":9.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Acrylonitrile",
+  "Amount":287.45
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Alachlor",
+  "Amount":0.013
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Alachlor",
+  "Amount":9.035
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Alachlor",
+  "Amount":0.032
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Aldicarb",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Aldicarb",
+  "Amount":18000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Aldrin",
+  "Amount":2.3301
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Aldrin",
+  "Amount":1038.09
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Aldrin",
+  "Amount":4.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Allyl alcohol",
+  "Amount":46029.935
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Allyl alcohol",
+  "Amount":13991.49
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Allyl alcohol",
+  "Amount":404247.008
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Allyl alcohol",
+  "Amount":276509.007
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Allyl chloride",
+  "Amount":21999.44
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Allyl chloride",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Allyl chloride",
+  "Amount":5144.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Allylamine",
+  "Amount":1267.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Aluminum (fume or dust)",
+  "Amount":758028.3214969999
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Aluminum (fume or dust)",
+  "Amount":7163342.6764970003
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Aluminum (fume or dust)",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Aluminum (fume or dust)",
+  "Amount":81668841.7259999961
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Aluminum oxide (fibrous forms)",
+  "Amount":7482.972836
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Aluminum oxide (fibrous forms)",
+  "Amount":155.25
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Aluminum oxide (fibrous forms)",
+  "Amount":5426507.8174839998
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Aluminum oxide (fibrous forms)",
+  "Amount":386346.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Aluminum oxide (fibrous forms)",
+  "Amount":2990700.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Aluminum phosphide",
+  "Amount":21236.6
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ametryn",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Amitrole",
+  "Amount":3.024
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Amitrole",
+  "Amount":19000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ammonia",
+  "Amount":133472507.1880670041
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Ammonia",
+  "Amount":4307584.5399000002
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Ammonia",
+  "Amount":1361290.7265000001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Ammonia",
+  "Amount":28519578.3550000004
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Ammonia",
+  "Amount":1594868.4439999999
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Ammonia",
+  "Amount":1935904.6140000001
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Ammonia",
+  "Amount":3339365.0899999999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Aniline",
+  "Amount":56225.1827
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Aniline",
+  "Amount":367.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Aniline",
+  "Amount":343.024
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Aniline",
+  "Amount":2757394.5419999999
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Aniline",
+  "Amount":1390.95
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Anthracene",
+  "Amount":8079.686798
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Anthracene",
+  "Amount":319.766
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Anthracene",
+  "Amount":31952.4614
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Anthracene",
+  "Amount":267.128
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Anthracene",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Anthracene",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Anthracene",
+  "Amount":65319.971
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Antimony",
+  "Amount":1338.6531
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Antimony",
+  "Amount":209.356
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Antimony",
+  "Amount":404795.36
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Antimony",
+  "Amount":1364941.82155
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Antimony  And Antimony Compounds",
+  "Amount":9667.466533
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Antimony  And Antimony Compounds",
+  "Amount":2333.0119
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Antimony  And Antimony Compounds",
+  "Amount":2076947.8554849999
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Antimony  And Antimony Compounds",
+  "Amount":7617.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Antimony  And Antimony Compounds",
+  "Amount":90226.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Antimony  And Antimony Compounds",
+  "Amount":1686985.6934
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Antimony compounds",
+  "Amount":13252.914993
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Antimony compounds",
+  "Amount":3430.093925
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Antimony compounds",
+  "Amount":443299.304
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Antimony compounds",
+  "Amount":11597.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Antimony compounds",
+  "Amount":33.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Antimony compounds",
+  "Amount":4901891.1843999997
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Antimony compounds",
+  "Amount":820726.397
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Arsenic",
+  "Amount":175.157987
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Arsenic",
+  "Amount":5084.619
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Arsenic",
+  "Amount":433625.1777
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Arsenic",
+  "Amount":0.5
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Arsenic",
+  "Amount":235679.310099
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Arsenic",
+  "Amount":118159.11103
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Arsenic  And Arsenic Compounds",
+  "Amount":15172.2388
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Arsenic  And Arsenic Compounds",
+  "Amount":760.11504
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Arsenic  And Arsenic Compounds",
+  "Amount":1399622.4144900001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Arsenic  And Arsenic Compounds",
+  "Amount":139757.56
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Arsenic  And Arsenic Compounds",
+  "Amount":80150.022
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Arsenic  And Arsenic Compounds",
+  "Amount":69020.17
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Arsenic  And Arsenic Compounds",
+  "Amount":106629.4086
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Arsenic compounds",
+  "Amount":25680.704
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Arsenic compounds",
+  "Amount":11016.956
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Arsenic compounds",
+  "Amount":1695018.6960000002
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Arsenic compounds",
+  "Amount":261.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Arsenic compounds",
+  "Amount":31010.5
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Arsenic compounds",
+  "Amount":65563107.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Arsenic compounds",
+  "Amount":18596.94
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Asbestos (friable)",
+  "Amount":2235.118843
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Asbestos (friable)",
+  "Amount":12922047.6500000004
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Atrazine",
+  "Amount":32902.1052
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Atrazine",
+  "Amount":54.86
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Atrazine",
+  "Amount":802369.749
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Atrazine",
+  "Amount":0.008
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Atrazine",
+  "Amount":263755.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Atrazine",
+  "Amount":37.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Barium",
+  "Amount":3590.501489
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Barium",
+  "Amount":1880.44
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Barium",
+  "Amount":1119197.8938300002
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Barium",
+  "Amount":13.02
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Barium",
+  "Amount":955.540496
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Barium",
+  "Amount":17583.3655
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Barium  And Barium Compounds",
+  "Amount":332363.348559
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Barium  And Barium Compounds",
+  "Amount":146770.6519
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Barium  And Barium Compounds",
+  "Amount":41766238.7495399937
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Barium  And Barium Compounds",
+  "Amount":32377.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Barium  And Barium Compounds",
+  "Amount":337621.16
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Barium  And Barium Compounds",
+  "Amount":2268759.8199999998
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Barium  And Barium Compounds",
+  "Amount":2159102.4989
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Barium compounds (except for barium sulfate (CAS No. 7727-43-7))",
+  "Amount":345482.010292
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Barium compounds (except for barium sulfate (CAS No. 7727-43-7))",
+  "Amount":267411.056842
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Barium compounds (except for barium sulfate (CAS No. 7727-43-7))",
+  "Amount":63503100.0680000037
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Barium compounds (except for barium sulfate (CAS No. 7727-43-7))",
+  "Amount":35514.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Barium compounds (except for barium sulfate (CAS No. 7727-43-7))",
+  "Amount":582678.605
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Barium compounds (except for barium sulfate (CAS No. 7727-43-7))",
+  "Amount":13418002.5979999993
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Barium compounds (except for barium sulfate (CAS No. 7727-43-7))",
+  "Amount":1992980.4299999999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bendiocarb",
+  "Amount":0.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Benomyl",
+  "Amount":9.37
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Benzal chloride",
+  "Amount":174.423
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Benzene",
+  "Amount":2878597.7754500001
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Benzene",
+  "Amount":3458.67626
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Benzene",
+  "Amount":70713.720177
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Benzene",
+  "Amount":253910.34552
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Benzene",
+  "Amount":790.8841
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Benzene",
+  "Amount":563.6
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Benzene",
+  "Amount":354548.64733
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Benzidine",
+  "Amount":3.011
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Benzo[g,h,i]perylene",
+  "Amount":8997.078702
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Benzo[g,h,i]perylene",
+  "Amount":193.806316
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Benzo[g,h,i]perylene",
+  "Amount":16579.953877
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Benzo[g,h,i]perylene",
+  "Amount":284.474
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Benzo[g,h,i]perylene",
+  "Amount":180.6752
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Benzo[g,h,i]perylene",
+  "Amount":175.8644
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Benzo[g,h,i]perylene",
+  "Amount":15219.229956
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Benzoic trichloride",
+  "Amount":0.013
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Benzoyl chloride",
+  "Amount":3142.530551
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Benzoyl chloride",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Benzoyl chloride",
+  "Amount":0.6714
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Benzoyl peroxide",
+  "Amount":936.242
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Benzoyl peroxide",
+  "Amount":1056.006
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Benzoyl peroxide",
+  "Amount":0.005
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Benzoyl peroxide",
+  "Amount":8520.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Benzyl chloride",
+  "Amount":3910.8973
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Benzyl chloride",
+  "Amount":8.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Benzyl chloride",
+  "Amount":26037.0676
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Beryllium",
+  "Amount":31.937
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Beryllium",
+  "Amount":5.9
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Beryllium",
+  "Amount":155299.4
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Beryllium",
+  "Amount":194118.32
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Beryllium  And Beryllium Compounds",
+  "Amount":398.567
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Beryllium  And Beryllium Compounds",
+  "Amount":71.1
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Beryllium  And Beryllium Compounds",
+  "Amount":181183.81
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Beryllium  And Beryllium Compounds",
+  "Amount":2721.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Beryllium  And Beryllium Compounds",
+  "Amount":555.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Beryllium  And Beryllium Compounds",
+  "Amount":6465.2
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Beryllium  And Beryllium Compounds",
+  "Amount":11313.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Beryllium compounds",
+  "Amount":336.3808
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Beryllium compounds",
+  "Amount":96.73
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Beryllium compounds",
+  "Amount":186331.33
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Beryllium compounds",
+  "Amount":30.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Beryllium compounds",
+  "Amount":140.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Beryllium compounds",
+  "Amount":96880.64
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Beryllium compounds",
+  "Amount":12.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bifenthrin",
+  "Amount":692.48
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Bifenthrin",
+  "Amount":0.3
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Bifenthrin",
+  "Amount":16949.69
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Biphenyl",
+  "Amount":121994.17585
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Biphenyl",
+  "Amount":56.032
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Biphenyl",
+  "Amount":49249.508
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Biphenyl",
+  "Amount":48730.737
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Biphenyl",
+  "Amount":47029.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bis(2-chloro-1-methylethyl) ether",
+  "Amount":1154.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Bis(2-chloro-1-methylethyl) ether",
+  "Amount":317.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Bis(2-chloro-1-methylethyl) ether",
+  "Amount":4.001
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bis(2-chloroethoxy)methane",
+  "Amount":113.68
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bis(2-chloroethyl) ether",
+  "Amount":814.2359
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Bis(2-chloroethyl) ether",
+  "Amount":4.05627
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Bis(2-chloroethyl) ether",
+  "Amount":11.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Bis(2-chloroethyl) ether",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Boron trichloride",
+  "Amount":2462.7
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Boron trichloride",
+  "Amount":2951.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Boron trifluoride",
+  "Amount":5555.18
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Boron trifluoride",
+  "Amount":314893.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bromacil",
+  "Amount":500.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Bromacil",
+  "Amount":750.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bromine",
+  "Amount":67761.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Bromine",
+  "Amount":40.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Bromine",
+  "Amount":40847.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Bromine",
+  "Amount":178.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Bromine",
+  "Amount":8.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bromochlorodifluoromethane (Halon 1211)",
+  "Amount":3480.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bromoform",
+  "Amount":6727.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bromomethane",
+  "Amount":280985.023
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Bromomethane",
+  "Amount":52.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Bromomethane",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Bromomethane",
+  "Amount":210.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bromotrifluoromethane (Halon 1301)",
+  "Amount":14273.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bromoxynil",
+  "Amount":265.02008
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Bromoxynil octanoate",
+  "Amount":224.79
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Bromoxynil octanoate",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Butyl acrylate",
+  "Amount":187954.263017
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Butyl acrylate",
+  "Amount":70.86
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Butyl acrylate",
+  "Amount":39213.737
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Butyl acrylate",
+  "Amount":0.052
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Butyl acrylate",
+  "Amount":4430.7252
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Butyraldehyde",
+  "Amount":216333.146551
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Butyraldehyde",
+  "Amount":2212.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Butyraldehyde",
+  "Amount":190.019
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Butyraldehyde",
+  "Amount":32424.017
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Butyraldehyde",
+  "Amount":280.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Butyraldehyde",
+  "Amount":31927.6152
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"C.I. Basic Green 4",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"C.I. Direct Blue 218",
+  "Amount":6.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"C.I. Direct Blue 218",
+  "Amount":4456.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"C.I. Direct Blue 218",
+  "Amount":2228.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"C.I. Food Red 15",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"C.I. Solvent Yellow 34",
+  "Amount":3.014
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cadmium",
+  "Amount":87.460833
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cadmium",
+  "Amount":62.83
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cadmium",
+  "Amount":310231.6
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cadmium",
+  "Amount":4676.89
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Cadmium",
+  "Amount":0.00005
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cadmium",
+  "Amount":49703.87
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cadmium  And Cadmium Compounds",
+  "Amount":5198.916543
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cadmium  And Cadmium Compounds",
+  "Amount":2243.0074
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cadmium  And Cadmium Compounds",
+  "Amount":2362323.0788799999
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cadmium  And Cadmium Compounds",
+  "Amount":53658.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Cadmium  And Cadmium Compounds",
+  "Amount":0.0396
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Cadmium  And Cadmium Compounds",
+  "Amount":700286.1
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cadmium  And Cadmium Compounds",
+  "Amount":260013.41
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cadmium compounds",
+  "Amount":2656.949
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cadmium compounds",
+  "Amount":335.77
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cadmium compounds",
+  "Amount":506705.465
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cadmium compounds",
+  "Amount":253.3
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Cadmium compounds",
+  "Amount":3.1
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Cadmium compounds",
+  "Amount":851621.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cadmium compounds",
+  "Amount":919260.9399999999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Captan",
+  "Amount":137.71901
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Captan",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Captan",
+  "Amount":37.18
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Captan",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Carbaryl",
+  "Amount":198.162
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Carbaryl",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Carbaryl",
+  "Amount":120.808
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Carbaryl",
+  "Amount":0.007
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Carbofuran",
+  "Amount":0.010007
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Carbon disulfide",
+  "Amount":8312606.5010000002
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Carbon disulfide",
+  "Amount":90008.281
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Carbon disulfide",
+  "Amount":577.977
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Carbon disulfide",
+  "Amount":1906.766
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Carbon disulfide",
+  "Amount":1.0026
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Carbon disulfide",
+  "Amount":2506.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Carbon tetrachloride",
+  "Amount":148226.763
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Carbon tetrachloride",
+  "Amount":119.205
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Carbon tetrachloride",
+  "Amount":228.931
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Carbon tetrachloride",
+  "Amount":14346.167
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Carbon tetrachloride",
+  "Amount":159462.44
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Carbonyl sulfide",
+  "Amount":10510540.9580000006
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Carbonyl sulfide",
+  "Amount":655.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Carbonyl sulfide",
+  "Amount":142.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Carbonyl sulfide",
+  "Amount":1900.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Carboxin",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Catechol",
+  "Amount":1492.68
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Catechol",
+  "Amount":7112.18
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Catechol",
+  "Amount":1612.8447
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Catechol",
+  "Amount":12.11444
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Catechol",
+  "Amount":83.37
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Certain glycol ethers",
+  "Amount":12934384.1039439999
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Certain glycol ethers",
+  "Amount":22200.38
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Certain glycol ethers",
+  "Amount":1354727.6939000001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Certain glycol ethers",
+  "Amount":876632.84
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Certain glycol ethers",
+  "Amount":16111.4
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Certain glycol ethers",
+  "Amount":52436.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Certain glycol ethers",
+  "Amount":4967933.3618000001
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chlordane",
+  "Amount":290.71362
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chlordane",
+  "Amount":4395.786
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chlordane",
+  "Amount":0.015
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chlordane",
+  "Amount":605.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chlorimuron-ethyl",
+  "Amount":182.41
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chlorimuron-ethyl",
+  "Amount":12714.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chlorine",
+  "Amount":5569871.218940001
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chlorine",
+  "Amount":192699.67307
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chlorine",
+  "Amount":3224074.5300000003
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chlorine",
+  "Amount":243671.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Chlorine",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Chlorine",
+  "Amount":114.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chlorine",
+  "Amount":648956.01
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chlorine dioxide",
+  "Amount":501605.87
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chlorine dioxide",
+  "Amount":365.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chloroacetic acid",
+  "Amount":8596.59
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chloroacetic acid",
+  "Amount":50.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chloroacetic acid",
+  "Amount":84.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chloroacetic acid",
+  "Amount":1376.1
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chlorobenzene",
+  "Amount":565183.938
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chlorobenzene",
+  "Amount":145.94
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chlorobenzene",
+  "Amount":11379.355
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chlorobenzene",
+  "Amount":92000.095
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chlorobenzene",
+  "Amount":4515916.3899999997
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chlorobenzilate",
+  "Amount":3.014
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chlorodifluoromethane (HCFC-22)",
+  "Amount":1024512.0600000001
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chloroethane",
+  "Amount":167011.9
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chloroethane",
+  "Amount":318.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chloroethane",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Chloroethane",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chloroethane",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chloroform",
+  "Amount":246852.247
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chloroform",
+  "Amount":5541.966
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chloroform",
+  "Amount":29525.798
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chloroform",
+  "Amount":23462.49
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chloroform",
+  "Amount":102320.73
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chloromethane",
+  "Amount":679230.105
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chloromethane",
+  "Amount":1255.82
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chloromethane",
+  "Amount":8294.1
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chloromethane",
+  "Amount":330813.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Chloromethane",
+  "Amount":0.6
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chloromethane",
+  "Amount":1090.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chloromethyl methyl ether",
+  "Amount":538.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chlorophenols",
+  "Amount":533.957
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chlorophenols",
+  "Amount":16.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chlorophenols",
+  "Amount":542568.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chlorophenols",
+  "Amount":94.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chloropicrin",
+  "Amount":4953.82
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chloroprene",
+  "Amount":37584.2499
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chloroprene",
+  "Amount":208.57
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chloroprene",
+  "Amount":4054.326
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chloroprene",
+  "Amount":3057.024
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chlorothalonil",
+  "Amount":1304.7
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chlorothalonil",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chlorothalonil",
+  "Amount":245597.03
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chlorothalonil",
+  "Amount":250.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chlorsulfuron",
+  "Amount":53.1
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chlorsulfuron",
+  "Amount":40713.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chromium",
+  "Amount":114973.407242
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chromium",
+  "Amount":3035.028715
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chromium",
+  "Amount":4376941.1293749996
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chromium",
+  "Amount":82207.294
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Chromium",
+  "Amount":143.58
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Chromium",
+  "Amount":2081110.2476900001
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chromium",
+  "Amount":204173250.4637160003
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region)",
+  "Amount":83454.106366
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region)",
+  "Amount":74271.7237
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region)",
+  "Amount":17554675.2005999982
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region)",
+  "Amount":538826.14
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region)",
+  "Amount":48875.55
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region)",
+  "Amount":5441062.8700000001
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region)",
+  "Amount":19458606.4611999989
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+  "Amount":87171.963426
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+  "Amount":21637.1437
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+  "Amount":10289886.7979000006
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+  "Amount":2491238.7400000002
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+  "Amount":50407.476
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+  "Amount":4286624.8799999999
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Chromium compounds (except for chromite ore mined in the Transvaal Region)",
+  "Amount":12672941.2909999993
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Chromium(III) perfluorooctanoate",
+  "Amount":750.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cobalt",
+  "Amount":8680.44768
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cobalt",
+  "Amount":620.7805
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cobalt",
+  "Amount":159228.70795
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cobalt",
+  "Amount":9800.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Cobalt",
+  "Amount":30.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Cobalt",
+  "Amount":226332.56
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cobalt",
+  "Amount":13476215.4900000002
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cobalt  And Cobalt Compounds",
+  "Amount":13637.803749
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cobalt  And Cobalt Compounds",
+  "Amount":2921.09
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cobalt  And Cobalt Compounds",
+  "Amount":1028603.4827620001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cobalt  And Cobalt Compounds",
+  "Amount":12197.44
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Cobalt  And Cobalt Compounds",
+  "Amount":3953.3
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Cobalt  And Cobalt Compounds",
+  "Amount":629077.85
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cobalt  And Cobalt Compounds",
+  "Amount":2302376.4832000001
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cobalt compounds",
+  "Amount":10594.058506
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cobalt compounds",
+  "Amount":66519.9
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cobalt compounds",
+  "Amount":1073507.4550000001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cobalt compounds",
+  "Amount":50485.47
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Cobalt compounds",
+  "Amount":12505.2
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Cobalt compounds",
+  "Amount":923406.25
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cobalt compounds",
+  "Amount":1757055.9803899999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Copper",
+  "Amount":358529.917292
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Copper",
+  "Amount":14622.65425
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Copper",
+  "Amount":5764970.4359889999
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Copper",
+  "Amount":240709.964292
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Copper",
+  "Amount":114327.6729
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Copper",
+  "Amount":172751.65
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Copper",
+  "Amount":378437057.5971630216
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Copper  And Copper Compounds",
+  "Amount":254342.899914
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Copper  And Copper Compounds",
+  "Amount":55254.1675
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Copper  And Copper Compounds",
+  "Amount":13685923.0853560008
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Copper  And Copper Compounds",
+  "Amount":377677.99
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Copper  And Copper Compounds",
+  "Amount":31070.068
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Copper  And Copper Compounds",
+  "Amount":24064671.5830000006
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Copper  And Copper Compounds",
+  "Amount":49952110.3706
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Copper compounds",
+  "Amount":169750.036235
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Copper compounds",
+  "Amount":111508.3955
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Copper compounds",
+  "Amount":6157699.6724999994
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Copper compounds",
+  "Amount":154096.9
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Copper compounds",
+  "Amount":50334.189
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Copper compounds",
+  "Amount":95680584.514200002
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Copper compounds",
+  "Amount":56038976.7030000016
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Creosote",
+  "Amount":145503.632352
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Creosote",
+  "Amount":159.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Creosote",
+  "Amount":236155.581
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Creosote",
+  "Amount":0.091
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Creosote",
+  "Amount":690.1
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cresol (mixed isomers)",
+  "Amount":804576.6440000001
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cresol (mixed isomers)",
+  "Amount":2255.472
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cresol (mixed isomers)",
+  "Amount":19893.9798
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cresol (mixed isomers)",
+  "Amount":426808.097
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Cresol (mixed isomers)",
+  "Amount":66.53
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Cresol (mixed isomers)",
+  "Amount":15291.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cresol (mixed isomers)",
+  "Amount":2156.24
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Crotonaldehyde",
+  "Amount":215.23408
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Crotonaldehyde",
+  "Amount":2849.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Crotonaldehyde",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cumene",
+  "Amount":905167.3578
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cumene",
+  "Amount":298.416
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cumene",
+  "Amount":4098.9841
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cumene",
+  "Amount":3889.161
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Cumene",
+  "Amount":31.343
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cumene",
+  "Amount":285237.5922
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cumene hydroperoxide",
+  "Amount":30490.0668
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cumene hydroperoxide",
+  "Amount":2600.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cumene hydroperoxide",
+  "Amount":69654.02
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cumene hydroperoxide",
+  "Amount":22783.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cumene hydroperoxide",
+  "Amount":10232.17
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cyanide compounds",
+  "Amount":142832.0924
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cyanide compounds",
+  "Amount":17461.45
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cyanide compounds",
+  "Amount":679756.2315
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cyanide compounds",
+  "Amount":5551903.0010000002
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Cyanide compounds",
+  "Amount":1887554.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cyanide compounds",
+  "Amount":186917.93803
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cycloate",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cyclohexane",
+  "Amount":3603021.1770600001
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cyclohexane",
+  "Amount":33234.371
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cyclohexane",
+  "Amount":35511.161
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cyclohexane",
+  "Amount":96671.412
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Cyclohexane",
+  "Amount":438.08
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Cyclohexane",
+  "Amount":12.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cyclohexane",
+  "Amount":1567545.0663999999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cyclohexanol",
+  "Amount":45697.6
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Cyclohexanol",
+  "Amount":32372.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Cyclohexanol",
+  "Amount":1001.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Cyclohexanol",
+  "Amount":1352997.1000000001
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Cyclohexanol",
+  "Amount":73.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Cyfluthrin",
+  "Amount":208.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dazomet",
+  "Amount":31.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dazomet",
+  "Amount":8.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Decabromodiphenyl oxide",
+  "Amount":932.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Decabromodiphenyl oxide",
+  "Amount":9767.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Di(2-ethylhexyl) phthalate",
+  "Amount":18465.214908
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Di(2-ethylhexyl) phthalate",
+  "Amount":26.51
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Di(2-ethylhexyl) phthalate",
+  "Amount":59717.389
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Di(2-ethylhexyl) phthalate",
+  "Amount":10240.226
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Di(2-ethylhexyl) phthalate",
+  "Amount":3211723.9700000002
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diallate",
+  "Amount":0.025
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diaminotoluene (mixed isomers)",
+  "Amount":4162.155
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Diaminotoluene (mixed isomers)",
+  "Amount":116.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Diaminotoluene (mixed isomers)",
+  "Amount":270.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Diaminotoluene (mixed isomers)",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diazinon",
+  "Amount":130.86303
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Diazinon",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Diazinon",
+  "Amount":39.051
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Diazinon",
+  "Amount":0.01
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Diazinon",
+  "Amount":252.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dibenzofuran",
+  "Amount":3218.8
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dibenzofuran",
+  "Amount":27.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dibenzofuran",
+  "Amount":867.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Dibenzofuran",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Dibenzofuran",
+  "Amount":39000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dibromotetrafluoroethane",
+  "Amount":12.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dibutyl phthalate",
+  "Amount":85485.120925
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dibutyl phthalate",
+  "Amount":39335.985
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Dibutyl phthalate",
+  "Amount":61993.013
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Dibutyl phthalate",
+  "Amount":3706.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dicamba",
+  "Amount":3360.33718
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dicamba",
+  "Amount":9.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dicamba",
+  "Amount":50861.95
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Dicamba",
+  "Amount":72858.009
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dichlorobenzene (mixed isomers)",
+  "Amount":19.513
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dichlorobenzene (mixed isomers)",
+  "Amount":70.139
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Dichlorobenzene (mixed isomers)",
+  "Amount":0.008
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Dichlorobenzene (mixed isomers)",
+  "Amount":94.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dichlorobromomethane",
+  "Amount":1513.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dichlorodifluoromethane (CFC-12)",
+  "Amount":34982.111
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Dichlorodifluoromethane (CFC-12)",
+  "Amount":26.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dichlorofluoromethane (HCFC-21)",
+  "Amount":1300.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dichloromethane",
+  "Amount":2853756.9067000002
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dichloromethane",
+  "Amount":5534.712
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dichloromethane",
+  "Amount":121941.938
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Dichloromethane",
+  "Amount":514448.224
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Dichloromethane",
+  "Amount":6663079.0499999998
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dichlorotetrafluoroethane (CFC-114)",
+  "Amount":79011.620007
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dichlorvos",
+  "Amount":412.020007
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dichlorvos",
+  "Amount":11564.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dicofol",
+  "Amount":0.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dicyclopentadiene",
+  "Amount":150917.62028
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dicyclopentadiene",
+  "Amount":280.43
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dicyclopentadiene",
+  "Amount":41488.96
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Dicyclopentadiene",
+  "Amount":81437.05
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Dicyclopentadiene",
+  "Amount":608.733
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Dicyclopentadiene",
+  "Amount":1663.9
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diepoxybutane",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diethanolamine",
+  "Amount":83586.41067
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Diethanolamine",
+  "Amount":30859.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Diethanolamine",
+  "Amount":328869.0353
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Diethanolamine",
+  "Amount":839200.296
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Diethanolamine",
+  "Amount":28000.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Diethanolamine",
+  "Amount":2606.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diethyl sulfate",
+  "Amount":5003.34
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diflubenzuron",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diglycidyl resorcinol ether",
+  "Amount":494.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dihydrosafrole",
+  "Amount":0.024
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diisocyanates",
+  "Amount":405183.885957
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Diisocyanates",
+  "Amount":6.89
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Diisocyanates",
+  "Amount":2129638.7930000001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Diisocyanates",
+  "Amount":1064.4
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Diisocyanates",
+  "Amount":3444.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Diisocyanates",
+  "Amount":382449.0572
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dimethoate",
+  "Amount":27.2
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dimethoate",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dimethyl phthalate",
+  "Amount":86485.242227
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dimethyl phthalate",
+  "Amount":68465.3141
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Dimethyl phthalate",
+  "Amount":23797.005
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Dimethyl phthalate",
+  "Amount":31910.2043
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dimethyl sulfate",
+  "Amount":840.293
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dimethyl sulfate",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Dimethyl sulfate",
+  "Amount":460000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dimethylamine",
+  "Amount":104172.396
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dimethylamine",
+  "Amount":33490.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dimethylamine",
+  "Amount":269647.213
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Dimethylamine",
+  "Amount":26954.02
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Dimethylamine",
+  "Amount":4172.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Dimethylamine",
+  "Amount":57.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dimethylamine dicamba",
+  "Amount":251.78
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dimethylamine dicamba",
+  "Amount":8.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dimethylcarbamoyl chloride",
+  "Amount":3.014
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dinitrobutyl phenol",
+  "Amount":1295.77
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dinitrobutyl phenol",
+  "Amount":34.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dinitrobutyl phenol",
+  "Amount":12.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Dinitrobutyl phenol",
+  "Amount":68681.06
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dinitrotoluene (mixed isomers)",
+  "Amount":46115.497
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dinitrotoluene (mixed isomers)",
+  "Amount":37.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dinitrotoluene (mixed isomers)",
+  "Amount":0.9
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dioxin and dioxin-like compounds",
+  "Amount":1067.61197
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dioxin and dioxin-like compounds",
+  "Amount":1294.4753
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Dioxin and dioxin-like compounds",
+  "Amount":64436.890961
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Dioxin and dioxin-like compounds",
+  "Amount":209.264408
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Dioxin and dioxin-like compounds",
+  "Amount":37.896111
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Dioxin and dioxin-like compounds",
+  "Amount":8319.709512
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Dioxin and dioxin-like compounds",
+  "Amount":5854.588351
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diphenylamine",
+  "Amount":11449.343
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Diphenylamine",
+  "Amount":28.05
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Diphenylamine",
+  "Amount":64285.58
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Diphenylamine",
+  "Amount":864.009
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Diphenylamine",
+  "Amount":125.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Diphenylamine",
+  "Amount":2084.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Dipotassium endothall",
+  "Amount":11.94
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Dipotassium endothall",
+  "Amount":2796.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Diuron",
+  "Amount":236.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Diuron",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Diuron",
+  "Amount":49.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Epichlorohydrin",
+  "Amount":81351.4206
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Epichlorohydrin",
+  "Amount":6104.6
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Epichlorohydrin",
+  "Amount":85137.027
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Epichlorohydrin",
+  "Amount":23794.006
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Epichlorohydrin",
+  "Amount":21.5
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Epichlorohydrin",
+  "Amount":6483.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Ethanaminium, N,N,N-triethyl-, salt with 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-1-octanesulfonic acid (1:1)",
+  "Amount":0.075
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethanol, 2,2'-iminobis-, compd. with \u03b1,\u03b1'-[phosphinicobis(oxy-2,1-ethanediyl)]bis[\u03c9-fluoropoly(difluoromethylene)] (1:1)",
+  "Amount":0.01
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethanol, 2,2'-iminobis-, compd. with \u03b1-fluoro-\u03c9-[2-(phosphonooxy)ethyl]poly(difluoromethylene) (2:1)",
+  "Amount":4.01
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethoprop",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Ethoprop",
+  "Amount":11092.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethyl acrylate",
+  "Amount":64508.417
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Ethyl acrylate",
+  "Amount":9.71
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Ethyl acrylate",
+  "Amount":4953.768
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Ethyl acrylate",
+  "Amount":2839.968
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Ethyl acrylate",
+  "Amount":1010.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethyl chloroformate",
+  "Amount":498.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethylbenzene",
+  "Amount":2107153.4999779998
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Ethylbenzene",
+  "Amount":1736.1082
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Ethylbenzene",
+  "Amount":86963.1135
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Ethylbenzene",
+  "Amount":531386.588
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Ethylbenzene",
+  "Amount":3488.8311
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Ethylbenzene",
+  "Amount":446.44
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Ethylbenzene",
+  "Amount":2256498.9465080001
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethylene",
+  "Amount":18294067.502700001
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Ethylene",
+  "Amount":192.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Ethylene",
+  "Amount":40143.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Ethylene",
+  "Amount":250.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Ethylene",
+  "Amount":54.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Ethylene",
+  "Amount":1396.92
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethylene glycol",
+  "Amount":1585009.2674499999
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Ethylene glycol",
+  "Amount":386173.742
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Ethylene glycol",
+  "Amount":9023656.8640209995
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Ethylene glycol",
+  "Amount":6951882.7589999996
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Ethylene glycol",
+  "Amount":33067.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Ethylene glycol",
+  "Amount":29869134.0287000015
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethylene oxide",
+  "Amount":155697.5973
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Ethylene oxide",
+  "Amount":1645.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Ethylene oxide",
+  "Amount":273.679
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Ethylene oxide",
+  "Amount":10159.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Ethylene oxide",
+  "Amount":8.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Ethylene oxide",
+  "Amount":20563.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethylene thiourea",
+  "Amount":1060.2448
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Ethylene thiourea",
+  "Amount":12398.64
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Ethylene thiourea",
+  "Amount":10368.39
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethylenebisdithiocarbamic acid, salts and esters",
+  "Amount":3.27
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Ethyleneimine",
+  "Amount":18000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ethylidene dichloride",
+  "Amount":9528.934
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Ethylidene dichloride",
+  "Amount":185.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Ethylidene dichloride",
+  "Amount":0.24
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Ethylidene dichloride",
+  "Amount":595.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Fluorine",
+  "Amount":25346.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Fluorouracil",
+  "Amount":0.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Fomesafen",
+  "Amount":269.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Fomesafen",
+  "Amount":0.58
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Fomesafen",
+  "Amount":23158.23
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Formaldehyde",
+  "Amount":4701402.3070529997
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Formaldehyde",
+  "Amount":181946.26
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Formaldehyde",
+  "Amount":282271.4219
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Formaldehyde",
+  "Amount":12935343.1429999992
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Formaldehyde",
+  "Amount":437.698
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Formaldehyde",
+  "Amount":159612.08
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Formaldehyde",
+  "Amount":30252.29
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Formic acid",
+  "Amount":491601.2547
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Formic acid",
+  "Amount":372667.095
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Formic acid",
+  "Amount":383518.1273
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Formic acid",
+  "Amount":13402912.1239999998
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Formic acid",
+  "Amount":2.68
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Formic acid",
+  "Amount":19000.2
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Formic acid",
+  "Amount":368135.44
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Freon 113 (CFC-113)",
+  "Amount":670971.2000000001
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Furan",
+  "Amount":12720.96
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Furan",
+  "Amount":97500.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Glycidol",
+  "Amount":1421.9
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Glycidol",
+  "Amount":19633.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Heptachlor",
+  "Amount":17.494
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Heptachlor",
+  "Amount":316.714
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Heptachlor",
+  "Amount":0.012
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Heptachlor",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hexabromocyclododecane",
+  "Amount":10777.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hexachloro-1,3-butadiene",
+  "Amount":2174.96
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hexachloro-1,3-butadiene",
+  "Amount":27.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hexachloro-1,3-butadiene",
+  "Amount":3.9
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Hexachloro-1,3-butadiene",
+  "Amount":40955.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hexachlorobenzene",
+  "Amount":846.715
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hexachlorobenzene",
+  "Amount":103.1661
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hexachlorobenzene",
+  "Amount":2924.7
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Hexachlorobenzene",
+  "Amount":0.04
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Hexachlorobenzene",
+  "Amount":1424.34
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Hexachlorobenzene",
+  "Amount":18.04
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hexachlorocyclopentadiene",
+  "Amount":11.60001
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hexachlorocyclopentadiene",
+  "Amount":0.03
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hexachloroethane",
+  "Amount":938.336553
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hexachloroethane",
+  "Amount":20.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hexachloroethane",
+  "Amount":262.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Hexachloroethane",
+  "Amount":202.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Hexachloroethane",
+  "Amount":39615.002
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hexachlorophene",
+  "Amount":7.354
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hexachlorophene",
+  "Amount":19000.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Hexachlorophene",
+  "Amount":47.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hexafluoropropylene oxide dimer acid",
+  "Amount":63.6
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hexafluoropropylene oxide dimer acid",
+  "Amount":0.48
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hexafluoropropylene oxide dimer acid",
+  "Amount":10142.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Hexafluoropropylene oxide dimer acid",
+  "Amount":6593.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hexafluoropropylene oxide dimer acid ammonium salt",
+  "Amount":147.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hexafluoropropylene oxide dimer acid ammonium salt",
+  "Amount":672.973
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Hexafluoropropylene oxide dimer acid ammonium salt",
+  "Amount":174912.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hexazinone",
+  "Amount":74.25
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hexazinone",
+  "Amount":792.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hydramethylnon",
+  "Amount":0.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hydrazine",
+  "Amount":3116.462288
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hydrazine",
+  "Amount":133.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hydrazine",
+  "Amount":7.84
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Hydrazine",
+  "Amount":20.8
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hydrazine sulfate (1:1)",
+  "Amount":0.12
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+  "Amount":24453915.609708
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+  "Amount":32142.46
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+  "Amount":677.94
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+  "Amount":663.06
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+  "Amount":86801.03
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hydrogen cyanide",
+  "Amount":5295584.6658999994
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hydrogen cyanide",
+  "Amount":839.45
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hydrogen cyanide",
+  "Amount":9969.000002
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Hydrogen cyanide",
+  "Amount":621638.763
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hydrogen fluoride",
+  "Amount":9463863.3650000002
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hydrogen fluoride",
+  "Amount":351.4
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hydrogen fluoride",
+  "Amount":26293190.7140230015
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Hydrogen fluoride",
+  "Amount":557723.45
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Hydrogen fluoride",
+  "Amount":1892769.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Hydrogen fluoride",
+  "Amount":14285.05
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hydrogen sulfide",
+  "Amount":17395226.6248690002
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hydrogen sulfide",
+  "Amount":374352.27
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hydrogen sulfide",
+  "Amount":34654.3784
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Hydrogen sulfide",
+  "Amount":9339597.5399999991
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Hydrogen sulfide",
+  "Amount":25878.04
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Hydrogen sulfide",
+  "Amount":243135.77
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Hydrogen sulfide",
+  "Amount":18407891.620000001
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Hydroquinone",
+  "Amount":17070.197903
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Hydroquinone",
+  "Amount":4996.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Hydroquinone",
+  "Amount":70634.225
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Hydroquinone",
+  "Amount":329096.008
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Hydroquinone",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Hydroquinone",
+  "Amount":1586.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Iron pentacarbonyl",
+  "Amount":14261.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Isobutyraldehyde",
+  "Amount":91533.15
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Isobutyraldehyde",
+  "Amount":22.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Isobutyraldehyde",
+  "Amount":29.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Isobutyraldehyde",
+  "Amount":212939.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Isobutyraldehyde",
+  "Amount":182.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Isobutyraldehyde",
+  "Amount":2163.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Isodrin",
+  "Amount":0.41
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Isoprene",
+  "Amount":187361.2996
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Isoprene",
+  "Amount":518.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Isoprene",
+  "Amount":3382.35
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Isoprene",
+  "Amount":1709.6
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Isosafrole",
+  "Amount":3.36
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Lead",
+  "Amount":64871.94937
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Lead",
+  "Amount":5260.513169
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Lead",
+  "Amount":7636250.6539850002
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Lead",
+  "Amount":159440.8027
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Lead",
+  "Amount":1769.97043
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Lead",
+  "Amount":557511.926274
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Lead",
+  "Amount":47280533.0307080001
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Lead  And Lead Compounds",
+  "Amount":153071.004843
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Lead  And Lead Compounds",
+  "Amount":22329.760716
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Lead  And Lead Compounds",
+  "Amount":33546971.6371980011
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Lead  And Lead Compounds",
+  "Amount":18597.291
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Lead  And Lead Compounds",
+  "Amount":39639.2416
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Lead  And Lead Compounds",
+  "Amount":30148559.489636004
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Lead  And Lead Compounds",
+  "Amount":169757989.3560079932
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Lead compounds",
+  "Amount":86677.537921
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Lead compounds",
+  "Amount":15021.120846
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Lead compounds",
+  "Amount":6059202.7147589996
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Lead compounds",
+  "Amount":230043.980686
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Lead compounds",
+  "Amount":15129.301
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Lead compounds",
+  "Amount":135305368.1499940157
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Lead compounds",
+  "Amount":29917491.3672339991
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Lindane",
+  "Amount":189.263
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Lindane",
+  "Amount":56.028
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Lindane",
+  "Amount":0.008
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Lindane",
+  "Amount":474.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Linuron",
+  "Amount":11.83
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Linuron",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Lithium carbonate",
+  "Amount":11989.42015
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Lithium carbonate",
+  "Amount":166.76
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Lithium carbonate",
+  "Amount":225901.58
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Lithium carbonate",
+  "Amount":20875.02
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Malathion",
+  "Amount":955.102
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Malathion",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Malathion",
+  "Amount":39.008
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Malathion",
+  "Amount":0.007
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Malathion",
+  "Amount":244.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Maleic anhydride",
+  "Amount":159952.07538
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Maleic anhydride",
+  "Amount":478.42
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Maleic anhydride",
+  "Amount":541273.5727
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Maleic anhydride",
+  "Amount":59333.039
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Maleic anhydride",
+  "Amount":14011.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Malononitrile",
+  "Amount":8.962
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Malononitrile",
+  "Amount":19000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Maneb",
+  "Amount":0.1
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Manganese",
+  "Amount":329304.434021
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Manganese",
+  "Amount":116003.063695
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Manganese",
+  "Amount":9768739.9869490005
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Manganese",
+  "Amount":747.659816
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Manganese",
+  "Amount":14508.26
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Manganese",
+  "Amount":921139.808
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Manganese",
+  "Amount":143741475.7069669962
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Manganese  And Manganese Compounds",
+  "Amount":300572.667314
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Manganese  And Manganese Compounds",
+  "Amount":1685004.6118000001
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Manganese  And Manganese Compounds",
+  "Amount":54317616.2609599978
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Manganese  And Manganese Compounds",
+  "Amount":124398.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Manganese  And Manganese Compounds",
+  "Amount":498556.52
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Manganese  And Manganese Compounds",
+  "Amount":52575774.675999999
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Manganese  And Manganese Compounds",
+  "Amount":48433701.2097000033
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Manganese compounds",
+  "Amount":317071.305633
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Manganese compounds",
+  "Amount":2245699.77
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Manganese compounds",
+  "Amount":33212119.5473000035
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Manganese compounds",
+  "Amount":9073459.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Manganese compounds",
+  "Amount":486849.01
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Manganese compounds",
+  "Amount":66758755.6159999967
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Manganese compounds",
+  "Amount":40894881.2602000013
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Mecoprop",
+  "Amount":260.65
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Mecoprop",
+  "Amount":250.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Mecoprop",
+  "Amount":250.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Mercury",
+  "Amount":4830.368865
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Mercury",
+  "Amount":173.907059
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Mercury",
+  "Amount":29766.21464
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Mercury",
+  "Amount":84.4455
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Mercury",
+  "Amount":264.463224
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Mercury",
+  "Amount":4090.54912
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Mercury",
+  "Amount":18746.15592
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Mercury  And Mercury Compounds",
+  "Amount":15156.652615
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Mercury  And Mercury Compounds",
+  "Amount":231.999252
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Mercury  And Mercury Compounds",
+  "Amount":156219.494846
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Mercury  And Mercury Compounds",
+  "Amount":505.40213
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Mercury  And Mercury Compounds",
+  "Amount":538.37511
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Mercury  And Mercury Compounds",
+  "Amount":991662.89613
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Mercury  And Mercury Compounds",
+  "Amount":431406.749244
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Mercury compounds",
+  "Amount":15262.634346
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Mercury compounds",
+  "Amount":2713.787101
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Mercury compounds",
+  "Amount":42603.982813
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Mercury compounds",
+  "Amount":150.18728
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Mercury compounds",
+  "Amount":150.1853
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Mercury compounds",
+  "Amount":103719.88772
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Mercury compounds",
+  "Amount":16206.955935
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Merphos",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methacrylonitrile",
+  "Amount":0.014
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Methacrylonitrile",
+  "Amount":35334.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Metham sodium",
+  "Amount":1085.66
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Metham sodium",
+  "Amount":26865.69
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methanol",
+  "Amount":96836916.3949699998
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Methanol",
+  "Amount":5097925.426
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Methanol",
+  "Amount":666211.2817000001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Methanol",
+  "Amount":15169526.773
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Methanol",
+  "Amount":242126.346
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Methanol",
+  "Amount":1331774.1599999999
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Methanol",
+  "Amount":22407882.2529999986
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methoxone",
+  "Amount":53.00005
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Methoxone",
+  "Amount":59.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methoxychlor",
+  "Amount":142.952
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Methoxychlor",
+  "Amount":1484.318
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Methoxychlor",
+  "Amount":0.007
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Methoxychlor",
+  "Amount":413.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methyl acrylate",
+  "Amount":50246.059501
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Methyl acrylate",
+  "Amount":31.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Methyl acrylate",
+  "Amount":1314.8666
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Methyl acrylate",
+  "Amount":230.0368
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Methyl acrylate",
+  "Amount":182.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methyl chlorocarbonate",
+  "Amount":138.044
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methyl hydrazine",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methyl iodide",
+  "Amount":36377.672
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Methyl iodide",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Methyl iodide",
+  "Amount":0.66
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Methyl iodide",
+  "Amount":245.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Methyl iodide",
+  "Amount":2.194
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methyl isobutyl ketone",
+  "Amount":2596081.80186
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Methyl isobutyl ketone",
+  "Amount":921.55
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Methyl isobutyl ketone",
+  "Amount":99553.2212
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Methyl isobutyl ketone",
+  "Amount":29203.535
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Methyl isobutyl ketone",
+  "Amount":457.1
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Methyl isobutyl ketone",
+  "Amount":4742492.6423000004
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methyl methacrylate",
+  "Amount":1848806.5575000001
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Methyl methacrylate",
+  "Amount":878.74
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Methyl methacrylate",
+  "Amount":149031.492108
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Methyl methacrylate",
+  "Amount":2262167.5
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Methyl methacrylate",
+  "Amount":394911.43
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methyl parathion",
+  "Amount":4.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Methyl parathion",
+  "Amount":80631.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methyl tert-butyl ether",
+  "Amount":230958.92848
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Methyl tert-butyl ether",
+  "Amount":3681.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Methyl tert-butyl ether",
+  "Amount":1400.722
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Methyl tert-butyl ether",
+  "Amount":21946.001
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Methyl tert-butyl ether",
+  "Amount":0.001
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Methyl tert-butyl ether",
+  "Amount":174613.5734
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Methylene bromide",
+  "Amount":3954.806
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Methylene bromide",
+  "Amount":7076.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Metribuzin",
+  "Amount":971.73
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Metribuzin",
+  "Amount":20.1
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Metribuzin",
+  "Amount":26654.25
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Mixture",
+  "Amount":42935.0
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Mixture",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Mixture",
+  "Amount":778172.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Molybdenum trioxide",
+  "Amount":69207.759019
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Molybdenum trioxide",
+  "Amount":39682.86
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Molybdenum trioxide",
+  "Amount":1331020.5880000002
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Molybdenum trioxide",
+  "Amount":279392.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Molybdenum trioxide",
+  "Amount":4950.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Molybdenum trioxide",
+  "Amount":250.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Molybdenum trioxide",
+  "Amount":965886.010225
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Monochloropentafluoroethane (CFC-115)",
+  "Amount":5113.938
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Mustard gas",
+  "Amount":105025.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Myclobutanil",
+  "Amount":51.86
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N,N-Dimethylaniline",
+  "Amount":2219.62
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"N,N-Dimethylaniline",
+  "Amount":22050.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N,N-Dimethylformamide",
+  "Amount":202992.5651
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"N,N-Dimethylformamide",
+  "Amount":2231.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"N,N-Dimethylformamide",
+  "Amount":16400.6424
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"N,N-Dimethylformamide",
+  "Amount":788111.621
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"N,N-Dimethylformamide",
+  "Amount":1405725.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N-Methyl-2-pyrrolidone",
+  "Amount":1404737.6772650001
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"N-Methyl-2-pyrrolidone",
+  "Amount":7121.86
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"N-Methyl-2-pyrrolidone",
+  "Amount":3520621.2889999999
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"N-Methyl-2-pyrrolidone",
+  "Amount":5383535.0269999998
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"N-Methyl-2-pyrrolidone",
+  "Amount":10045.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"N-Methyl-2-pyrrolidone",
+  "Amount":20749925.3489999995
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N-Methylolacrylamide",
+  "Amount":1263.26016
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"N-Methylolacrylamide",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"N-Methylolacrylamide",
+  "Amount":1754.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N-Nitroso-N-ethylurea",
+  "Amount":0.013
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N-Nitroso-N-methylurea",
+  "Amount":0.013
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N-Nitrosodi-n-butylamine",
+  "Amount":0.052
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"N-Nitrosodi-n-butylamine",
+  "Amount":237.1
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N-Nitrosodi-n-propylamine",
+  "Amount":1.017
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N-Nitrosodiethylamine",
+  "Amount":0.013
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N-Nitrosodimethylamine",
+  "Amount":0.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N-Nitrosodiphenylamine",
+  "Amount":6.462
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"N-Nitrosopiperidine",
+  "Amount":4.4
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Naled",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Naled",
+  "Amount":10620.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Naphthalene",
+  "Amount":1324670.458532
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Naphthalene",
+  "Amount":3568.101
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Naphthalene",
+  "Amount":2185824.9981
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Naphthalene",
+  "Amount":457263.565
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Naphthalene",
+  "Amount":247.728
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Naphthalene",
+  "Amount":345.99
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Naphthalene",
+  "Amount":469967.0921
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nickel",
+  "Amount":107559.100109
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Nickel",
+  "Amount":6398.423696
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nickel",
+  "Amount":4233912.3732650001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Nickel",
+  "Amount":93936.05
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Nickel",
+  "Amount":1546.7629
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Nickel",
+  "Amount":681649.7059000001
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nickel",
+  "Amount":151271649.0000019968
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nickel  And Nickel Compounds",
+  "Amount":91316.544459
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Nickel  And Nickel Compounds",
+  "Amount":27236.0729
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nickel  And Nickel Compounds",
+  "Amount":40236242.8730999976
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Nickel  And Nickel Compounds",
+  "Amount":261228.06
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Nickel  And Nickel Compounds",
+  "Amount":68095.6576
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Nickel  And Nickel Compounds",
+  "Amount":8632704.0500000007
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nickel  And Nickel Compounds",
+  "Amount":19211229.9488999993
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nickel compounds",
+  "Amount":102202.2964
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Nickel compounds",
+  "Amount":28925.7649
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nickel compounds",
+  "Amount":4445982.7696000002
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Nickel compounds",
+  "Amount":211449.4972
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Nickel compounds",
+  "Amount":21761.45
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Nickel compounds",
+  "Amount":2139698.2799999998
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nickel compounds",
+  "Amount":9895938.4297000002
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nicotine and salts",
+  "Amount":174888.015
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Nicotine and salts",
+  "Amount":27.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nicotine and salts",
+  "Amount":193670.177
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Nicotine and salts",
+  "Amount":0.015
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Nicotine and salts",
+  "Amount":85705.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nicotine and salts",
+  "Amount":7803569.2750000004
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nitrapyrin",
+  "Amount":34.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nitrapyrin",
+  "Amount":317869.15
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nitrapyrin",
+  "Amount":1846.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+  "Amount":299373.547191
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+  "Amount":177150545.1080000103
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+  "Amount":5878503.3618999999
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+  "Amount":34138341.1222909987
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+  "Amount":15513456.7660000008
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+  "Amount":11694068.7599999998
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nitrate compounds (water dissociable; reportable only when in aqueous solution)",
+  "Amount":1403500.4759
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nitric acid",
+  "Amount":1520968.2021379999
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Nitric acid",
+  "Amount":304933.005
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nitric acid",
+  "Amount":1243256.1132700001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Nitric acid",
+  "Amount":7426541.591
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Nitric acid",
+  "Amount":112086.126
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Nitric acid",
+  "Amount":325934.03
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nitric acid",
+  "Amount":1289234.6340000001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Nitrilotriacetic acid",
+  "Amount":1780.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nitrobenzene",
+  "Amount":15992.843
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nitrobenzene",
+  "Amount":261.261
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Nitrobenzene",
+  "Amount":283215.01
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nitrobenzene",
+  "Amount":1418.11
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nitroglycerin",
+  "Amount":97582.16548
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Nitroglycerin",
+  "Amount":34486.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nitroglycerin",
+  "Amount":18036.49
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nitroglycerin",
+  "Amount":4362.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nitromethane",
+  "Amount":57558.44
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Nitromethane",
+  "Amount":796.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nonylphenol",
+  "Amount":31436.634335
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Nonylphenol",
+  "Amount":13.83
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nonylphenol",
+  "Amount":178130.7018
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Nonylphenol",
+  "Amount":76.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nonylphenol",
+  "Amount":13873.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Nonylphenol Ethoxylates",
+  "Amount":83865.914087
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Nonylphenol Ethoxylates",
+  "Amount":2587.5
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Nonylphenol Ethoxylates",
+  "Amount":260827.091
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Nonylphenol Ethoxylates",
+  "Amount":394.76
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Nonylphenol Ethoxylates",
+  "Amount":125.04
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Nonylphenol Ethoxylates",
+  "Amount":44000.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Nonylphenol Ethoxylates",
+  "Amount":3609.8
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Octachlorostyrene",
+  "Amount":0.0123
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Octachlorostyrene",
+  "Amount":66.718
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Octachlorostyrene",
+  "Amount":219.55
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Osmium tetroxide",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Oxyfluorfen",
+  "Amount":2.64
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Oxyfluorfen",
+  "Amount":0.3
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Oxyfluorfen",
+  "Amount":4980.46
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Ozone",
+  "Amount":811606.503
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Paraldehyde",
+  "Amount":44.262
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Paraldehyde",
+  "Amount":19000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Paraquat dichloride",
+  "Amount":500.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Paraquat dichloride",
+  "Amount":47541.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Paraquat dichloride",
+  "Amount":262.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Parathion",
+  "Amount":0.25203
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Parathion",
+  "Amount":0.007
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Parathion",
+  "Amount":0.007
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Pendimethalin",
+  "Amount":3337.517238
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Pendimethalin",
+  "Amount":5.06
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Pendimethalin",
+  "Amount":17027.129
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Pendimethalin",
+  "Amount":0.008
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Pendimethalin",
+  "Amount":1875.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Pendimethalin",
+  "Amount":0.0043
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Pendimethalin",
+  "Amount":990.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Pentachlorobenzene",
+  "Amount":37.0202
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Pentachlorobenzene",
+  "Amount":144.7021
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Pentachlorobenzene",
+  "Amount":911.092
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Pentachlorobenzene",
+  "Amount":23.0018
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Pentachloroethane",
+  "Amount":1690.042
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Pentachloroethane",
+  "Amount":220.307
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Pentachloroethane",
+  "Amount":0.006
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Pentachloroethane",
+  "Amount":190692.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Pentachlorophenol",
+  "Amount":56.281
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Pentachlorophenol",
+  "Amount":846.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Pentachlorophenol",
+  "Amount":108.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Pentachlorophenol",
+  "Amount":1619.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Pentobarbital sodium",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Peracetic acid",
+  "Amount":255341.165
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Peracetic acid",
+  "Amount":2197.52
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Peracetic acid",
+  "Amount":10.377
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Peracetic acid",
+  "Amount":391.015
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Peracetic acid",
+  "Amount":4539.73
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Peracetic acid",
+  "Amount":1700.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Peracetic acid",
+  "Amount":596.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Perfluorohexanesulfonic acid",
+  "Amount":500.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Perfluorooctane sulfonic acid",
+  "Amount":16308.45
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Perfluorooctanoic acid",
+  "Amount":3.84
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Perfluorooctanoic acid",
+  "Amount":288.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Perfluorooctyl iodide",
+  "Amount":381.7
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Perfluorooctyl iodide",
+  "Amount":65.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Perfluorooctyl iodide",
+  "Amount":5468.72
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Perfluorooctyl iodide",
+  "Amount":490228.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Permethrin",
+  "Amount":18.57001
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Permethrin",
+  "Amount":16195.4
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Permethrin",
+  "Amount":1100.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Permethrin",
+  "Amount":121.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Phenanthrene",
+  "Amount":41026.950448
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Phenanthrene",
+  "Amount":329.1736
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Phenanthrene",
+  "Amount":47999.0836
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Phenanthrene",
+  "Amount":274.488
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Phenanthrene",
+  "Amount":5.539
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Phenanthrene",
+  "Amount":136.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Phenanthrene",
+  "Amount":158685.819
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Phenol",
+  "Amount":3145685.1811600002
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Phenol",
+  "Amount":26692.500676
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Phenol",
+  "Amount":1041956.278587
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Phenol",
+  "Amount":1356879.2860000001
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Phenol",
+  "Amount":362.6624
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Phenol",
+  "Amount":4594.06
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Phenol",
+  "Amount":551170.01
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Phenolphthalein",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Phenolphthalein",
+  "Amount":10528.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Phenothrin",
+  "Amount":20.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Phenytoin",
+  "Amount":830.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Phosgene",
+  "Amount":5691.32
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Phosphine",
+  "Amount":4378.4
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Phosphine",
+  "Amount":7.51
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Phosphorus (yellow or white)",
+  "Amount":909.35
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Phosphorus (yellow or white)",
+  "Amount":993.889
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Phosphorus (yellow or white)",
+  "Amount":129294.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Phthalic anhydride",
+  "Amount":198718.9298
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Phthalic anhydride",
+  "Amount":27.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Phthalic anhydride",
+  "Amount":52279.33
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Phthalic anhydride",
+  "Amount":36741.027
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Phthalic anhydride",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Phthalic anhydride",
+  "Amount":9686.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Picloram",
+  "Amount":447.1
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Picloram",
+  "Amount":18.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Picric acid",
+  "Amount":0.2
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Picric acid",
+  "Amount":80469.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Piperonyl butoxide",
+  "Amount":8.36
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Poly(difluoromethylene), \u03b1,\u03b1'-[phosphinicobis(oxy-2,1-ethanediyl)]bis[\u03c9-fluoro-, ammonium salt",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Poly(difluoromethylene), \u03b1-fluoro-\u03c9-[2-(phosphonooxy)ethyl]-, diammonium salt",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Poly(oxy-1,2-ethanediyl), \u03b1-[2-[ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl]-\u03c9-hydroxy-",
+  "Amount":2874.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Poly(oxy-1,2-ethanediyl), \u03b1-hydro-\u03c9-hydroxy-, ether with \u03b1-fluoro-\u03c9-(2-hydroxyethyl)poly(difluoromethylene) (1:1)",
+  "Amount":0.11
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Poly(oxy-1,2-ethanediyl), \u03b1-hydro-\u03c9-hydroxy-, ether with \u03b1-fluoro-\u03c9-(2-hydroxyethyl)poly(difluoromethylene) (1:1)",
+  "Amount":132.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Polybrominated biphenyls",
+  "Amount":1894.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Polychlorinated alkanes (C10-C13)",
+  "Amount":9.65
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Polychlorinated alkanes (C10-C13)",
+  "Amount":504.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Polychlorinated alkanes (C10-C13)",
+  "Amount":39316.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Polychlorinated biphenyls",
+  "Amount":31.154295
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Polychlorinated biphenyls",
+  "Amount":1.4001
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Polychlorinated biphenyls",
+  "Amount":3047586.8855410004
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Polychlorinated biphenyls",
+  "Amount":0.19
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Polychlorinated biphenyls",
+  "Amount":13.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Polychlorinated biphenyls",
+  "Amount":149.44
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Polychlorinated biphenyls",
+  "Amount":5747.7
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Polycyclic aromatic compounds",
+  "Amount":252655.408743
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Polycyclic aromatic compounds",
+  "Amount":5620.846158
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Polycyclic aromatic compounds",
+  "Amount":321044.534128
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Polycyclic aromatic compounds",
+  "Amount":20017.257
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Polycyclic aromatic compounds",
+  "Amount":1117.332
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Polycyclic aromatic compounds",
+  "Amount":1271.76
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Polycyclic aromatic compounds",
+  "Amount":1762259.5055499999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Potassium N-methyldithiocarbamate",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Potassium N-methyldithiocarbamate",
+  "Amount":356.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Potassium bromate",
+  "Amount":15.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Potassium dimethyldithiocarbamate",
+  "Amount":206.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Potassium dimethyldithiocarbamate",
+  "Amount":0.8
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Potassium perfluorooctanesulfonate",
+  "Amount":0.2
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Potassium perfluorooctanesulfonate",
+  "Amount":7000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Pronamide",
+  "Amount":0.014
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Propachlor",
+  "Amount":0.01
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Propachlor",
+  "Amount":0.026
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Propachlor",
+  "Amount":0.024
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Propanil",
+  "Amount":1000.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Propanil",
+  "Amount":50884.24
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Propargite",
+  "Amount":307.68
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Propargyl alcohol",
+  "Amount":496.796
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Propargyl alcohol",
+  "Amount":90.753
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Propargyl alcohol",
+  "Amount":0.005
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Propiconazole",
+  "Amount":2591.48
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Propiconazole",
+  "Amount":1179.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Propiconazole",
+  "Amount":23058.35
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Propiconazole",
+  "Amount":8981.15
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Propionaldehyde",
+  "Amount":152700.69
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Propionaldehyde",
+  "Amount":19727.05
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Propionaldehyde",
+  "Amount":476.74
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Propionaldehyde",
+  "Amount":129052.7
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Propionaldehyde",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Propoxur",
+  "Amount":0.2
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Propylene",
+  "Amount":6962481.2331499998
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Propylene",
+  "Amount":85.3
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Propylene",
+  "Amount":664.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Propylene",
+  "Amount":24000.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Propylene",
+  "Amount":54.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Propylene",
+  "Amount":4977.8
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Propylene oxide",
+  "Amount":293848.446516
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Propylene oxide",
+  "Amount":1288.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Propylene oxide",
+  "Amount":120.76
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Propylene oxide",
+  "Amount":25546.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Propylene oxide",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Propyleneimine",
+  "Amount":982.9
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Pyridine",
+  "Amount":26274.113
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Pyridine",
+  "Amount":63.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Pyridine",
+  "Amount":2506.552
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Pyridine",
+  "Amount":528054.11
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Pyridine",
+  "Amount":18469.88
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Quinoline",
+  "Amount":341.2627
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Quinoline",
+  "Amount":15871.0982
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Quinone",
+  "Amount":30.05
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Quinone",
+  "Amount":67.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Quintozene",
+  "Amount":79.834
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Quintozene",
+  "Amount":60.25
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"S,S,S-Tributyltrithiophosphate",
+  "Amount":10.1
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"S-Ethyl dipropylthiocarbamate",
+  "Amount":7.5
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Safrole",
+  "Amount":0.014
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Selenium",
+  "Amount":16980.8878
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Selenium",
+  "Amount":772.4625
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Selenium",
+  "Amount":1000712.6507999999
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Selenium",
+  "Amount":671.89
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Selenium",
+  "Amount":0.0005
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Selenium",
+  "Amount":41856.222
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Selenium  And Selenium Compounds",
+  "Amount":33975.346044
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Selenium  And Selenium Compounds",
+  "Amount":4200.87
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Selenium  And Selenium Compounds",
+  "Amount":627836.704
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Selenium  And Selenium Compounds",
+  "Amount":24150.2
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Selenium  And Selenium Compounds",
+  "Amount":318.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Selenium  And Selenium Compounds",
+  "Amount":20790.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Selenium  And Selenium Compounds",
+  "Amount":28064.02
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Selenium compounds",
+  "Amount":66240.70055
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Selenium compounds",
+  "Amount":6449.51
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Selenium compounds",
+  "Amount":1874261.568
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Selenium compounds",
+  "Amount":353.0
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Selenium compounds",
+  "Amount":77.22
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Selenium compounds",
+  "Amount":281719.98
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Selenium compounds",
+  "Amount":56671.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Siloxanes and Silicones, (3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)oxy Me, hydroxy Me, Me octyl, ethers with polyethylene glycol mono-Me ether",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Siloxanes and Silicones, (3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)oxy Me, hydroxy Me, Me octyl, ethers with polyethylene glycol mono-Me ether",
+  "Amount":23815.872
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Silver",
+  "Amount":1238.486301
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Silver",
+  "Amount":17.58
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Silver",
+  "Amount":65914.2782
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Silver",
+  "Amount":72.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Silver",
+  "Amount":2.9605
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Silver",
+  "Amount":936676.626
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Silver And Silver Compounds",
+  "Amount":14517.955042
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Silver And Silver Compounds",
+  "Amount":140.65
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Silver And Silver Compounds",
+  "Amount":129767.12
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Silver And Silver Compounds",
+  "Amount":9391.53
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Silver And Silver Compounds",
+  "Amount":28301.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Silver And Silver Compounds",
+  "Amount":488983.69
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Silver compounds",
+  "Amount":418.28
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Silver compounds",
+  "Amount":1018.78
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Silver compounds",
+  "Amount":55802.81
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Silver compounds",
+  "Amount":30.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Silver compounds",
+  "Amount":146196.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Silver compounds",
+  "Amount":314211.32
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Simazine",
+  "Amount":75.1
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Simazine",
+  "Amount":5.1
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Simazine",
+  "Amount":548005.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Sodium azide",
+  "Amount":2.2
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Sodium azide",
+  "Amount":18153.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Sodium azide",
+  "Amount":8.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Sodium dicamba",
+  "Amount":200.11
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Sodium dicamba",
+  "Amount":20345.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Sodium dicamba",
+  "Amount":1.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Sodium dicamba",
+  "Amount":750.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Sodium dimethyldithiocarbamate",
+  "Amount":156.4
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Sodium dimethyldithiocarbamate",
+  "Amount":359255.2
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Sodium dimethyldithiocarbamate",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Sodium dimethyldithiocarbamate",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Sodium fluoroacetate",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Sodium nitrite",
+  "Amount":76979.9131
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Sodium nitrite",
+  "Amount":1815982.4099999999
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Sodium nitrite",
+  "Amount":1329811.61179
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Sodium nitrite",
+  "Amount":1413713.2
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Sodium nitrite",
+  "Amount":2457.55
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Sodium nitrite",
+  "Amount":55459.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Strychnine and salts",
+  "Amount":2.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Strychnine and salts",
+  "Amount":19000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Styrene",
+  "Amount":30968120.7154700011
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Styrene",
+  "Amount":11221.81499
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Styrene",
+  "Amount":1761720.5330000001
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Styrene",
+  "Amount":198566.396
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Styrene",
+  "Amount":5904.346
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Styrene",
+  "Amount":12888.01
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Styrene",
+  "Amount":194780.6534
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Styrene oxide",
+  "Amount":2.8
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Sulfluramid",
+  "Amount":0.8
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+  "Amount":50034527.895792
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+  "Amount":525915.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+  "Amount":225.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",
+  "Amount":479970.5008
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Sulfuryl fluoride",
+  "Amount":292346.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Terbacil",
+  "Amount":82.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Tetrabromobisphenol A",
+  "Amount":7629.6392
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Tetrabromobisphenol A",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Tetrabromobisphenol A",
+  "Amount":151215.55
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Tetrabromobisphenol A",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Tetrachloroethylene",
+  "Amount":781093.2815
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Tetrachloroethylene",
+  "Amount":596.876
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Tetrachloroethylene",
+  "Amount":51228.465736
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Tetrachloroethylene",
+  "Amount":3.409
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Tetrachloroethylene",
+  "Amount":3.001
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Tetrachloroethylene",
+  "Amount":4116882.3445669999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Tetrachlorvinphos",
+  "Amount":30.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Tetracycline hydrochloride",
+  "Amount":132.8
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Tetracycline hydrochloride",
+  "Amount":4623.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Tetrafluoroethylene",
+  "Amount":111382.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Thallium",
+  "Amount":1.877868
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Thallium",
+  "Amount":0.2
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Thallium",
+  "Amount":10211.25
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Thallium  And Thallium Compounds",
+  "Amount":119.4
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Thallium  And Thallium Compounds",
+  "Amount":93976.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Thallium  And Thallium Compounds",
+  "Amount":11000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Thallium compounds",
+  "Amount":922.06
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Thallium compounds",
+  "Amount":516.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Thallium compounds",
+  "Amount":393693.13289
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Thallium compounds",
+  "Amount":15.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Thallium compounds",
+  "Amount":593314.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Thallium compounds",
+  "Amount":5345.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Thiabendazole",
+  "Amount":13.3
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Thiabendazole",
+  "Amount":5088.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Thiabendazole",
+  "Amount":221.37
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Thioacetamide",
+  "Amount":4.014
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Thiobencarb",
+  "Amount":500.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Thiodicarb",
+  "Amount":755.77
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Thiodicarb",
+  "Amount":3.2
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Thiols, C8-20, \u03b3-\u03c9-perfluoro, telomers with acrylamide",
+  "Amount":27000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Thiophanate-methyl",
+  "Amount":31.2
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Thiophanate-methyl",
+  "Amount":15405.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Thiourea",
+  "Amount":266.077
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Thiourea",
+  "Amount":18048.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Thiourea",
+  "Amount":2578.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Thiram",
+  "Amount":1086.899042
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Thiram",
+  "Amount":16.42
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Thiram",
+  "Amount":33266.509586
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Thiram",
+  "Amount":3986.69
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Titanium tetrachloride",
+  "Amount":19301.6104
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Titanium tetrachloride",
+  "Amount":604.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Toluene",
+  "Amount":14211084.4381099995
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Toluene",
+  "Amount":5994.827
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Toluene",
+  "Amount":436551.394331
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Toluene",
+  "Amount":185158.954759
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Toluene",
+  "Amount":6019.3636
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Toluene",
+  "Amount":2847.36
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Toluene",
+  "Amount":12798115.8903999999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Toluene diisocyanate (mixed isomers)",
+  "Amount":13848.08423
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Toluene diisocyanate (mixed isomers)",
+  "Amount":38424.338
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Toluene diisocyanate (mixed isomers)",
+  "Amount":48456.088
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Toluene diisocyanate (mixed isomers)",
+  "Amount":1094.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Toluene diisocyanate (mixed isomers)",
+  "Amount":1027.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Toluene-2,4-diisocyanate",
+  "Amount":557.94899
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Toluene-2,4-diisocyanate",
+  "Amount":2.283
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Toluene-2,4-diisocyanate",
+  "Amount":0.256
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Toluene-2,4-diisocyanate",
+  "Amount":762.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Toluene-2,6-diisocyanate",
+  "Amount":144.61728
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Toluene-2,6-diisocyanate",
+  "Amount":78.012
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Toluene-2,6-diisocyanate",
+  "Amount":0.01
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Toluene-2,6-diisocyanate",
+  "Amount":250.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Toxaphene",
+  "Amount":121.681
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Toxaphene",
+  "Amount":12529.147
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Toxaphene",
+  "Amount":34.007
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Toxaphene",
+  "Amount":433.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Trade Secret",
+  "Amount":15394.968
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Trade Secret",
+  "Amount":47.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Trade Secret",
+  "Amount":82.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Triadimefon",
+  "Amount":1.53
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Triadimefon",
+  "Amount":6.35
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Tribenuron-methyl",
+  "Amount":2290.4
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Tribenuron-methyl",
+  "Amount":21405.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Trichlorfon",
+  "Amount":2236.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Trichloroacetyl chloride",
+  "Amount":8.6
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Trichloroethylene",
+  "Amount":1004133.55901
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Trichloroethylene",
+  "Amount":326.58
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Trichloroethylene",
+  "Amount":11613.454
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Trichloroethylene",
+  "Amount":0.112
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Trichloroethylene",
+  "Amount":1659176.29
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Trichlorofluoromethane (CFC-11)",
+  "Amount":209465.675
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Trichlorofluoromethane (CFC-11)",
+  "Amount":52.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Trichlorofluoromethane (CFC-11)",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Trichlorofluoromethane (CFC-11)",
+  "Amount":151.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Triclopyr-triethylammonium salt",
+  "Amount":26.53
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Triethylamine",
+  "Amount":121352.6171
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Triethylamine",
+  "Amount":5163.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Triethylamine",
+  "Amount":37987.813
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Triethylamine",
+  "Amount":433.139
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Triethylamine",
+  "Amount":55358.7705
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Trifluralin",
+  "Amount":427.872695
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Trifluralin",
+  "Amount":0.3
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Trifluralin",
+  "Amount":16841.84
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Triphenyltin hydroxide",
+  "Amount":1.8
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Triphenyltin hydroxide",
+  "Amount":0.02
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Tris(2,3-dibromopropyl) phosphate",
+  "Amount":0.014
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Trypan blue",
+  "Amount":4.155
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Trypan blue",
+  "Amount":18000.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Urethane",
+  "Amount":130.671
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Urethane",
+  "Amount":79204.256
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Urethane",
+  "Amount":0.232
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Urethane",
+  "Amount":2937.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Vanadium (except when contained in an alloy)",
+  "Amount":7791.65
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Vanadium (except when contained in an alloy)",
+  "Amount":3260.91
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Vanadium (except when contained in an alloy)",
+  "Amount":615736.26
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Vanadium (except when contained in an alloy)",
+  "Amount":6.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Vanadium (except when contained in an alloy)",
+  "Amount":5.54
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Vanadium (except when contained in an alloy)",
+  "Amount":167097.4
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Vanadium compounds",
+  "Amount":162414.785169
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Vanadium compounds",
+  "Amount":371872.9581
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Vanadium compounds",
+  "Amount":16499319.9410999995
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Vanadium compounds",
+  "Amount":1500415.002597
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Vanadium compounds",
+  "Amount":134338.89
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Vanadium compounds",
+  "Amount":9017920.4260000009
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Vanadium compounds",
+  "Amount":1034953.329
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Vinclozolin",
+  "Amount":34664.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Vinyl acetate",
+  "Amount":916448.643303
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Vinyl acetate",
+  "Amount":8099.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Vinyl acetate",
+  "Amount":38302.1498
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Vinyl acetate",
+  "Amount":146856.045
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Vinyl acetate",
+  "Amount":0.678
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Vinyl acetate",
+  "Amount":1835757.55
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Vinyl chloride",
+  "Amount":428184.883026
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Vinyl chloride",
+  "Amount":48.52
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Vinyl chloride",
+  "Amount":139.826
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Vinyl chloride",
+  "Amount":0.005
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Vinyl chloride",
+  "Amount":5234.67033
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Vinyl fluoride",
+  "Amount":131017.6
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Vinylidene chloride",
+  "Amount":62997.132
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Vinylidene chloride",
+  "Amount":29.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Vinylidene chloride",
+  "Amount":115118.316
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Vinylidene chloride",
+  "Amount":0.005
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Vinylidene chloride",
+  "Amount":35589.05
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Warfarin and salts",
+  "Amount":6.1
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Warfarin and salts",
+  "Amount":39000.03
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Warfarin and salts",
+  "Amount":0.027
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Xylene (mixed isomers)",
+  "Amount":10231996.3364899997
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Xylene (mixed isomers)",
+  "Amount":6826.63168
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Xylene (mixed isomers)",
+  "Amount":604245.0205999999
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Xylene (mixed isomers)",
+  "Amount":314383.280118
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Xylene (mixed isomers)",
+  "Amount":913.7236
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Xylene (mixed isomers)",
+  "Amount":1807.09
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Xylene (mixed isomers)",
+  "Amount":13283658.8212000001
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Zinc (fume or dust)",
+  "Amount":235983.7884
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Zinc (fume or dust)",
+  "Amount":3570428.7400000002
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Zinc (fume or dust)",
+  "Amount":46.15
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Zinc (fume or dust)",
+  "Amount":188537.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Zinc (fume or dust)",
+  "Amount":344969.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Zinc (fume or dust)",
+  "Amount":17068475.9499999993
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Zinc compounds",
+  "Amount":2389910.794245
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"Zinc compounds",
+  "Amount":982443.265917
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"Zinc compounds",
+  "Amount":113209969.3550499976
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"Zinc compounds",
+  "Amount":8224749.1616000002
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"Zinc compounds",
+  "Amount":847214.2100000001
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"Zinc compounds",
+  "Amount":268226014.4675949514
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"Zinc compounds",
+  "Amount":510998041.443599999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"Zineb",
+  "Amount":0.1
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"alpha-Naphthylamine",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"beta-Naphthylamine",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"m-Cresol",
+  "Amount":8767.464
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"m-Cresol",
+  "Amount":617.614
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"m-Cresol",
+  "Amount":57.54
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"m-Cresol",
+  "Amount":587226.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"m-Cresol",
+  "Amount":706.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"m-Dinitrobenzene",
+  "Amount":3.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"m-Xylene",
+  "Amount":206329.5002
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"m-Xylene",
+  "Amount":188.65
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"m-Xylene",
+  "Amount":566.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"m-Xylene",
+  "Amount":15765.7
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"n-Butyl alcohol",
+  "Amount":7751253.885834001
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"n-Butyl alcohol",
+  "Amount":43295.3653
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"n-Butyl alcohol",
+  "Amount":80594.8436
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"n-Butyl alcohol",
+  "Amount":754292.322
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"n-Butyl alcohol",
+  "Amount":22.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"n-Butyl alcohol",
+  "Amount":19000.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"n-Butyl alcohol",
+  "Amount":2858711.4981
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"n-Hexane",
+  "Amount":37674210.5213100016
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"n-Hexane",
+  "Amount":2273.421002
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"n-Hexane",
+  "Amount":104845.586
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"n-Hexane",
+  "Amount":252390.978
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"n-Hexane",
+  "Amount":1442.2366
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"n-Hexane",
+  "Amount":881.11
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"n-Hexane",
+  "Amount":2034862.9014999999
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"o-Anisidine",
+  "Amount":1270.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"o-Cresol",
+  "Amount":3022.6828
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"o-Cresol",
+  "Amount":134.2
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"o-Cresol",
+  "Amount":202537.61
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"o-Cresol",
+  "Amount":6046.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"o-Toluidine",
+  "Amount":5546.21
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"o-Toluidine",
+  "Amount":198.0
+ },
+ {
+  "DisposalType":"Surface Impoundment",
+  "Chemical":"o-Toluidine",
+  "Amount":5.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"o-Toluidine hydrochloride",
+  "Amount":0.02
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"o-Xylene",
+  "Amount":176012.7788
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"o-Xylene",
+  "Amount":118.23
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"o-Xylene",
+  "Amount":380.49
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"o-Xylene",
+  "Amount":30175.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"o-Xylene",
+  "Amount":6701.5
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"p-Chloroaniline",
+  "Amount":76.08
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"p-Chloroaniline",
+  "Amount":50.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"p-Cresidine",
+  "Amount":1.48
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"p-Cresol",
+  "Amount":3516.435
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"p-Cresol",
+  "Amount":278.9
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"p-Cresol",
+  "Amount":6.64
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"p-Cresol",
+  "Amount":293615.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"p-Cresol",
+  "Amount":455.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"p-Nitroaniline",
+  "Amount":49.6
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"p-Phenylenediamine",
+  "Amount":1471.21
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"p-Phenylenediamine",
+  "Amount":85.0
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"p-Phenylenediamine",
+  "Amount":81.29
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"p-Phenylenediamine",
+  "Amount":10.0
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"p-Xylene",
+  "Amount":492420.7563
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"p-Xylene",
+  "Amount":50.02
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"p-Xylene",
+  "Amount":5289.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"p-Xylene",
+  "Amount":4383.8
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"sec-Butyl alcohol",
+  "Amount":170419.4676
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"sec-Butyl alcohol",
+  "Amount":953.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"sec-Butyl alcohol",
+  "Amount":3341.62
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"sec-Butyl alcohol",
+  "Amount":20.0
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"sec-Butyl alcohol",
+  "Amount":15839.57
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"tert-Butyl alcohol",
+  "Amount":259409.9933
+ },
+ {
+  "DisposalType":"Water",
+  "Chemical":"tert-Butyl alcohol",
+  "Amount":6743.0
+ },
+ {
+  "DisposalType":"Landfill",
+  "Chemical":"tert-Butyl alcohol",
+  "Amount":26908.01
+ },
+ {
+  "DisposalType":"Underground Wells",
+  "Chemical":"tert-Butyl alcohol",
+  "Amount":300339.4
+ },
+ {
+  "DisposalType":"Land Treatment",
+  "Chemical":"tert-Butyl alcohol",
+  "Amount":130.6
+ },
+ {
+  "DisposalType":"Recycled",
+  "Chemical":"tert-Butyl alcohol",
+  "Amount":160307.88
+ },
+ {
+  "DisposalType":"Air",
+  "Chemical":"trans-1,4-Dichloro-2-butene",
+  "Amount":6.0
+ }
+]
