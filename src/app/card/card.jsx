@@ -11,7 +11,7 @@ export default function Card({color, show, setIsShow, handleShow, i, content, he
     const margin = 10
     const maxWidth = totalWidth/1.8
     const minWidth = ((totalWidth - maxWidth) - (margin))/ cardNumber
-    
+
     const animatedDiv = useSpring(  
         {
             width: show ? maxWidth: minWidth,
@@ -29,7 +29,7 @@ export default function Card({color, show, setIsShow, handleShow, i, content, he
         {opacity: showContent ? 1: 0}
     )
 
-    const currContent = <animated.p className='text-warm-white text-[18px] font-[600] pb-4' style={animatedP}>{content}</animated.p>
+    const currContent = <animated.p className='text-warm-white text-[18px] font-[500] p-4' style={animatedP}>{content}</animated.p>
     
 
     return (

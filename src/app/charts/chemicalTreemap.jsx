@@ -3,12 +3,17 @@ import * as d3 from "d3";
 import { useEffect, useRef } from "react";
 import data from '../assets/data/GroupedByDisposalType.json';
 
-export default function chemicalTreemap({setContent, setKey}) {
+export default function chemicalTreemap({setContent, setKey, setDescription}) {
     const svgRef = useRef(null)
     const svgWidth = 1120
     const svgHeight = 600
 
+
+
     useEffect (() => {
+
+        setDescription("This is a description for the TreeMap")
+
         const svg = d3.select(svgRef.current);
         // const svg = svgEl.append("g")
 

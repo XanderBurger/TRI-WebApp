@@ -5,16 +5,18 @@ import data from "../assets/data/facilityLocations.geojson"
 import states from "../assets/data/gz_2010_us_040_00_5m.geojson"
 
 
-export default function FacilityMap({setContent, setKey}){
+export default function FacilityMap({setContent, setKey, setDescription}){
     
     const svgRef = useRef(null)
 
     const svgWidth = 860
-    const svgHeight = 600
-    // let projection = d3.geoMercator().scale(800).center([-94.04423584210527, 36.66203010526314])
-    let projection = d3.geoMercator().scale(800).center([-154, 63])
+    const svgHeight = 500
+    let projection = d3.geoMercator().scale(800).center([-93.04423584210527, 38.66203010526314]) //lower 48
+    //let projection = d3.geoMercator().scale(800).center([-154, 63]) //Alaska
     let [xMin, yMax] = projection([-125.000000,49.384358])
     let [xMax, yMin] = projection([-66.934570, 24.396308])
+
+    
     
     const geoGenerator = d3.geoPath()
     .projection(projection)
@@ -22,6 +24,8 @@ export default function FacilityMap({setContent, setKey}){
     let totalScale = d3.scaleSqrt().domain([0, 200000000]).range([0, 30])
 
     useEffect (() => {
+
+        setDescription("This is a description for the map")
         
         const svg = d3.select(svgRef.current);
 
@@ -47,7 +51,6 @@ export default function FacilityMap({setContent, setKey}){
                 .transition()
                 .duration(200)
                 .attr("fill-opacity", 1)
-
             })
             .on("mouseout",  (d, i) => {
                 d3.select(d.target)
