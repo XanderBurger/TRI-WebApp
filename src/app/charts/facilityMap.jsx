@@ -5,7 +5,7 @@ import data from "../assets/data/facilityLocations.geojson"
 import states from "../assets/data/gz_2010_us_040_00_5m.geojson"
 
 
-export default function FacilityMap({setContent, setKey, setDescription}){
+export default function FacilityMap({setContent, setDescription}){
     
     const svgRef = useRef(null)
 
@@ -15,8 +15,6 @@ export default function FacilityMap({setContent, setKey, setDescription}){
     //let projection = d3.geoMercator().scale(800).center([-154, 63]) //Alaska
     let [xMin, yMax] = projection([-125.000000,49.384358])
     let [xMax, yMin] = projection([-66.934570, 24.396308])
-
-    
     
     const geoGenerator = d3.geoPath()
     .projection(projection)
@@ -25,7 +23,13 @@ export default function FacilityMap({setContent, setKey, setDescription}){
 
     useEffect (() => {
 
-        setDescription("This is a description for the map")
+        setDescription("Locations of Facilities in the lower 48 that produce over 100,000 Ibs of waste in 2021.")
+
+        setContent({
+            T1: "Facility:",
+            D1: "---",
+            T2: "Amount Disposed:",
+            D2: "---"})
         
         const svg = d3.select(svgRef.current);
 
@@ -46,7 +50,11 @@ export default function FacilityMap({setContent, setKey, setDescription}){
             .attr("fill-opacity", 0.25)
             .on("mouseover", (d, i) =>
             {
-                setContent(`${i.properties.Name}: Onsite Release: ${Math.round(i.properties.Total).toLocaleString()} Ibs`)
+                setContent({
+                    T1: "Facility:",
+                    D1: i.properties.Name,
+                    T2: "Amount Disposed:",
+                    D2: `${Math.round(i.properties.Total).toLocaleString()} Ibs`})
                 d3.select(d.target)
                 .transition()
                 .duration(200)
@@ -56,14 +64,18 @@ export default function FacilityMap({setContent, setKey, setDescription}){
                 d3.select(d.target)
                 .transition()
                 .duration(200)
-                .attr("fill-opacity", 0.25)                
+                .attr("fill-opacity", 0.25)  
+                
+                setContent({
+                    T1: "Facility:",
+                    D1: "---",
+                    T2: "Amount Disposed:",
+                    D2: "---"})
             })
             .attr("r", 0)
             .transition()
             .duration(1000)
             .attr("r", d => totalScale(d.properties.Total))
-
-            setKey("Map")
     }, [])
 
     return <svg ref={svgRef} viewBox={`0, 0, ${svgWidth}, ${svgHeight}`} preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"/>

@@ -9,8 +9,8 @@ export default function Card({color, show, setIsShow, handleShow, i, content, he
     const[showContent, setShowContent] = useState(show)
 
     const margin = 10
-    const maxWidth = totalWidth/1.8
-    const minWidth = ((totalWidth - maxWidth) - (margin))/ cardNumber
+    const maxWidth = totalWidth/2.3
+    const minWidth = ((totalWidth - maxWidth) - (margin * cardNumber))/ cardNumber
 
     const animatedDiv = useSpring(  
         {

@@ -3,19 +3,21 @@ import * as d3 from "d3";
 import { useEffect, useRef } from "react";
 import data from '../assets/data/GroupedByDisposalType.json';
 
-export default function chemicalTreemap({setContent, setKey, setDescription}) {
+export default function chemicalTreemap({setContent, setDescription}) {
     const svgRef = useRef(null)
     const svgWidth = 1120
-    const svgHeight = 600
-
-
+    const svgHeight = 730
 
     useEffect (() => {
 
-        setDescription("This is a description for the TreeMap")
+        setDescription("Amount of chemicals disposed organized by disposal type. ")
+        setContent({
+            T1: "Chemical:",
+            D1: "---",
+            T2: "Amount:",
+            D2: "---"})
 
         const svg = d3.select(svgRef.current);
-        // const svg = svgEl.append("g")
 
         const nestedData = d3.hierarchy(d3.group(data, d=> d.DisposalType, d => d.Chemical)).sum(d => d.Amount).sort(d => d.value)
         
@@ -30,31 +32,30 @@ export default function chemicalTreemap({setContent, setKey, setDescription}) {
             .data(dataTiles)
             .enter()
             .append("g")
-            // .attr("transform", d => `translate(${d.x0}, ${d.y0})`)
             .attr("transform", d => `translate(${d.x0}, ${d.y0})`)
     
         block.append("rect")
             .attr("class", "title")
             .attr("fill", d => {
                 if(d.data.DisposalType === "Recycled") {return "#16FF58"}
-                else if(d.data.DisposalType === "Landfill") {return "#b164bc"}
+                else if(d.data.DisposalType === "Landfill") {return "#20ffa6"}
                 else if(d.data.DisposalType === "Underground Wells") {return "#CD29F6"}
                 else if(d.data.DisposalType === "Air") {return "#FF9F0E"}
                 else if(d.data.DisposalType === "Water") {return "#0EF1FF"}
                 else if(d.data.DisposalType === "Land Treatment") {return "#FF2056"}
-                else if(d.data.DisposalType === "Surface Impoundment") {return "#febe04"}
+                else if(d.data.DisposalType === "Surface Impoundment") {return "#ff20b8"}
                 } )
             .attr("fill-opacity", .25)
             .attr("stroke", d => {
                 if(d.data.DisposalType === "Recycled") {return "#16FF58"}
-                else if(d.data.DisposalType === "Landfill") {return "#b164bc"}
+                else if(d.data.DisposalType === "Landfill") {return "#20ffa6"}
                 else if(d.data.DisposalType === "Underground Wells") {return "#CD29F6"}
                 else if(d.data.DisposalType === "Air") {return "#FF9F0E"}
                 else if(d.data.DisposalType === "Water") {return "#0EF1FF"}
                 else if(d.data.DisposalType === "Land Treatment") {return "#FF2056"}
-                else if(d.data.DisposalType === "Surface Impoundment") {return "#febe04"}
+                else if(d.data.DisposalType === "Surface Impoundment") {return "#ff20b8"}
                 } )
-            .attr("stroke-width", "2px")
+            .attr("stroke-width", 1)
             .transition()
             .duration(1000)
             .attr("width", d => d.x1 - d.x0)
@@ -63,21 +64,30 @@ export default function chemicalTreemap({setContent, setKey, setDescription}) {
             block
             .on("mouseover", (d, i) =>
             {
-                setContent(`${i.data.DisposalType}: ${i.data.Chemical}: ${Math.round(i.data.Amount).toLocaleString()} Ibs`)
+                setContent({
+                    T1: "Chemical:",
+                    D1: i.data.Chemical,
+                    T2: "Amount:",
+                    D2: `${Math.round(i.data.Amount).toLocaleString()} Ibs`})
+
                 d3.select(d.target)
                 .transition()
                 .duration(200)
                 .attr("fill-opacity", 1)
             })
             .on("mouseout",  (d, i) => {
-            d3.select(d.target)
-            .transition()
-            .duration(200)
-            .attr("fill-opacity", 0.25)                
-            })
+               
+                setContent({
+                    T1: "Chemical:",
+                    D1: "---",
+                    T2: "Amount:",
+                    D2: "---"})
 
-            setKey("TreeMap")
-                
+                d3.select(d.target)
+                .transition()
+                .duration(200)
+                .attr("fill-opacity", 0.25)                
+            })  
     }, [])
 
     return <svg ref={svgRef} viewBox={`0, 0, ${svgWidth}, ${svgHeight}`} preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"/>

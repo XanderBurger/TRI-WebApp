@@ -16,6 +16,8 @@ module.exports = {
         "bright-yellow": "#FF9F0E",
         "bright-purple": "#CD29F6",
         "bright-red": "#FF2056",
+        "bright-pink": "#ff20b8",
+        "bright-sage": "#20ffa6"
       },
       fontFamily: {
         'satoshi': ["Satoshi-Variable", "san-serif"],

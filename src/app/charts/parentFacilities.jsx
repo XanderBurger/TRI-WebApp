@@ -22,7 +22,7 @@ function ParentButton({name, parentIndex, setCurrParent, currentIndex}){
     )
 }
 
-export default function ParentsFacilities({setContent, setKey, setDescription}){
+export default function ParentsFacilities({setContent, setDescription}){
     
     const svgRef = useRef(null)
 
@@ -39,12 +39,16 @@ export default function ParentsFacilities({setContent, setKey, setDescription}){
 
     const [currParent, setCurrParent] = useState(0)
 
-    
-    
+    useEffect(() => {}, [])
 
     useEffect (() => {
-        
-        setDescription("This is a description for the Parent Facility chart")
+        setDescription("The number of facilities that a given parent company controls and how much waste they produce.")
+
+        setContent({
+            T1: "Child Facility:",
+            D1: "---",
+            T2: "Amount Disposed:",
+            D2: "---"})
 
         const svg = d3.select(svgRef.current);
         svg.selectAll("*").remove();
@@ -69,37 +73,42 @@ export default function ParentsFacilities({setContent, setKey, setDescription}){
         let rotation = 90
         topData[currParent][2].forEach(e => {
             svg.append("path")
-            .attr("transform", `rotate(${rotation}, ${centerX}, ${centerY})`)
-            .attr("stroke", "#CD29F6")
-            .attr("d", `M ${centerX} ${centerY} v 0`)
-            .attr("stroke-width", 1)
-            .transition()
-            .attr("d", `M ${centerX} ${centerY} v${-lineScale(e[1])}`)
+                .attr("transform", `rotate(${rotation}, ${centerX}, ${centerY})`)
+                .attr("stroke", "#CD29F6")
+                .attr("d", `M ${centerX} ${centerY} v 0`)
+                .attr("stroke-width", 1)
+                .transition()
+                .attr("d", `M ${centerX} ${centerY} v${-lineScale(e[1])}`)
 
             svg.append("circle")
-            .attr("cx", centerX)
-            .attr("cy", (centerY) -lineScale(e[1]) )
-            .attr("fill", "none")
-            .attr("stroke", "#FF2056")
-            .attr("fill", "#FF2056")
-            .attr("fill-opacity", .25)
-            .attr("stroke-width", 2)
-            .on("mouseover", (event) => {
-                setContent(`Amount: ${e[1]}`)
-                d3.select(event.target).attr("fill-opacity", 1)
-            })
-            .on("mouseout", (event) => {
-                d3.select(event.target).attr("fill-opacity", .25)
-            })
-            .attr("transform", `rotate(${rotation}, ${centerX}, ${centerY})`)
-            .transition()
-            .attr("r", 10)
+                .attr("cx", centerX)
+                .attr("cy", (centerY) -lineScale(e[1]) )
+                .attr("fill", "none")
+                .attr("stroke", "#FF2056")
+                .attr("fill", "#FF2056")
+                .attr("fill-opacity", .25)
+                .attr("stroke-width", 2)
+                .on("mouseover", (event) => {
+                    setContent({
+                        T1: "Child Facility:",
+                        D1: e[0],
+                        T2: "Amount Disposed:",
+                        D2: `${Math.round(e[1]).toLocaleString()} Ibs`})
+                    d3.select(event.target).attr("fill-opacity", 1)})
+                .on("mouseout", (event) => {
+                    setContent({
+                        T1: "Child Facility:",
+                        D1: "---",
+                        T2: "Amount Disposed:",
+                        D2: "---"})
+
+                    d3.select(event.target).attr("fill-opacity", .25)})
+                .attr("transform", `rotate(${rotation}, ${centerX}, ${centerY})`)
+                .transition()
+                .attr("r", 10)
         
             rotation += rotationAmount
         })
-
-        
-        
     }, [currParent])
 
     return(
@@ -111,7 +120,6 @@ export default function ParentsFacilities({setContent, setKey, setDescription}){
                {topData.map((e, i) => <ParentButton name={e[0][0]} parentIndex={i} setCurrParent={setCurrParent} currentIndex={currParent} key={e[0][0]}/>)}
             </div>    
         </div>
-    )
-     
+    )    
 }
 

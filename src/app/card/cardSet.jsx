@@ -21,7 +21,7 @@ export default function CardSet({cardContent, width, height}) {
     
 
     return (
-        <div className={"font-satoshi"} style={{width: `${width}px`}}>
+        <div className={"font-satoshi flex"} style={{width: `${width}px`}}>
             {cardContent.map((c, i) => <Card color={c.color} setIsShow={setIsShow} show={isShow[i]} handleShow={handleShow} i={i} content={c.content} title={c.title} height={height} cardNumber={cardContent.length} totalWidth ={width} key={c.title}/>)}
         </div>
     )
