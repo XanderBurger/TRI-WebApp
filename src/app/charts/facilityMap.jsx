@@ -1,6 +1,6 @@
 "use client"
 import * as d3 from "d3";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef} from "react";
 import data from "../assets/data/facilityLocations.geojson"
 import states from "../assets/data/gz_2010_us_040_00_5m.geojson"
 

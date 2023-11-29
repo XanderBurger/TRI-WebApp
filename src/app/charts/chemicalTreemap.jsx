@@ -1,9 +1,9 @@
 "use client"
 import * as d3 from "d3";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef} from "react";
 import data from '../assets/data/GroupedByDisposalType.json';
 
-export default function chemicalTreemap({setContent, setDescription}) {
+export default function ChemicalTreemap({setContent, setDescription}) {
     const svgRef = useRef(null)
     const svgWidth = 1120
     const svgHeight = 730
