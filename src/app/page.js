@@ -195,6 +195,7 @@ export default function Home() {
         <div className='flex'>
         <a className='text-[14px] text-warm-white p-4 pl-0 hover:text-bright-purple' href='https://www.epa.gov/toxics-release-inventory-tri-program'>Program Home Page</a>
         <a className='text-[14px] text-warm-white p-4 pl-0 hover:text-bright-purple' href='https://catalog.data.gov/dataset/toxics-release-inventory-tri'>Data</a>
+        <a className='text-[14px] text-warm-white p-4 pl-0 hover:text-bright-purple' href='https://www.linkedin.com/in/xander-burger-25673b28a'>Developer's Linkedin</a>
         </div>
       </div>
     </main>
