@@ -158,7 +158,7 @@ export default function Home() {
       </div>
       <div className="grid grid-cols-1 mt-2 sm:grid-cols-1 lg:grid-cols-2 gap-4">
         <div className="w-[100%] bg-gray-green rounded-3xl mt-2">
-          <h2 className="font-[500] text-[30px] py-6 text-warm-white pt-4">About the TRI</h2>
+          <h2 className="font-[500] text-[30px] px-6 text-warm-white pt-4">About the TRI</h2>
           <div className="text-warm-white p-6">
             <h3 className="font-[700] text-[24px]">
             What is it?
@@ -177,7 +177,7 @@ export default function Home() {
           </div>
         </div>
         <div className="w-[100%] bg-gray-green rounded-3xl mt-2">
-          <h2 className="font-[500] text-[30px] py-6 text-warm-white pt-4">About the Release Types</h2>
+          <h2 className="font-[500] text-[30px] px-6 text-warm-white pt-4">About the Release Types</h2>
           <div className='px-6 pb-6'>
             {cardContent.map(e => <Card title={e.title} content={e.content} color={e.color} key={e.title}/>)}
           </div>
