@@ -38,22 +38,23 @@ export default function ChemicalTreemap({setContent, setDescription}) {
             .attr("class", "title")
             .attr("fill", d => {
                 if(d.data.DisposalType === "Recycled") {return "#16FF58"}
-                else if(d.data.DisposalType === "Landfill") {return "#20ffa6"}
-                else if(d.data.DisposalType === "Underground Wells") {return "#CD29F6"}
+                else if(d.data.DisposalType === "Landfill") {return "#cd29f6"}
+                else if(d.data.DisposalType === "Underground Wells") {return "#ff4e17"}
                 else if(d.data.DisposalType === "Air") {return "#FF9F0E"}
                 else if(d.data.DisposalType === "Water") {return "#0EF1FF"}
-                else if(d.data.DisposalType === "Land Treatment") {return "#FF2056"}
-                else if(d.data.DisposalType === "Surface Impoundment") {return "#ff20b8"}
+                else if(d.data.DisposalType === "Land Treatment") {return "#ff246d"}
+                else if(d.data.DisposalType === "Surface Impoundment") {return "#3e30f9"}
                 } )
             .attr("fill-opacity", .25)
             .attr("stroke", d => {
-                if(d.data.DisposalType === "Recycled") {return "#16FF58"}
-                else if(d.data.DisposalType === "Landfill") {return "#20ffa6"}
-                else if(d.data.DisposalType === "Underground Wells") {return "#CD29F6"}
-                else if(d.data.DisposalType === "Air") {return "#FF9F0E"}
-                else if(d.data.DisposalType === "Water") {return "#0EF1FF"}
-                else if(d.data.DisposalType === "Land Treatment") {return "#FF2056"}
-                else if(d.data.DisposalType === "Surface Impoundment") {return "#ff20b8"}
+                return "#cd29f6"
+                // if(d.data.DisposalType === "Recycled") {return "#16FF58"}
+                // else if(d.data.DisposalType === "Landfill") {return "#20ffa6"}
+                // else if(d.data.DisposalType === "Underground Wells") {return "#CD29F6"}
+                // else if(d.data.DisposalType === "Air") {return "#FF9F0E"}
+                // else if(d.data.DisposalType === "Water") {return "#0EF1FF"}
+                // else if(d.data.DisposalType === "Land Treatment") {return "#FF2056"}
+                // else if(d.data.DisposalType === "Surface Impoundment") {return "#ff20b8"}
                 } )
             .attr("stroke-width", 1)
             .transition()

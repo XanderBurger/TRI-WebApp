@@ -10,14 +10,17 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
 
     useEffect(() => {
         // Function to update the state based on screen width
-        let newWidth = window.innerWidth > 768 ? 600: 425
+        let newWidth = window.innerWidth > 768 ? 1000: 625
+        let centerPosition = window.innerWidth > 768 ? 2: 2
         setSvgWidth(newWidth)
-        setCenterX(newWidth/3)
+        setCenterX(newWidth/2)
 
         const handleResize = () => {
-          let newWidth = window.innerWidth > 768 ? 600: 425
+          let newWidth = window.innerWidth > 768 ? 1000: 625
+          let centerPosition = window.innerWidth > 768 ? 2 : 2
+
           setSvgWidth(newWidth)
-          setCenterX(newWidth/3)
+          setCenterX(newWidth/2)
         };
     
         // Add event listener
@@ -32,9 +35,9 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
     const [currentText, setCurrentText] = useState(facilityTotalsTop[0].Facility)
 
     const svgRef = useRef(null)
-    const [svgWidth, setSvgWidth] = useState(600)
-    const [centerX, setCenterX] = useState(svgWidth/4)
-    const svgHeight = 300
+    const [svgWidth, setSvgWidth] = useState(1000)
+    const [centerX, setCenterX] = useState(svgWidth/2)
+    const svgHeight = 600
     const rScale = d3.scaleLog([1, facilityTotalsTop[0].Total], [0, (svgHeight/2) -10])
     const scaleValues =[1, 10,100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 10000000]
 
@@ -42,10 +45,11 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
     function setColor(value, curr){
         if(value == curr.Air){return "#FF9F0E"}
         else if(value == curr.Water){return "#0EF1FF"}
-        else if(value == curr.Landfill){return "#20ffa6"}
-        else if(value == curr.Underground_Wells){return "#CD29F6"}
-        else if(value == curr.Land_Treatment){return "#FF2056"}
-        else if(value == curr.Surface_Impoundment){return "#ff20b8"}
+        else if(value == curr.Landfill){return "#cd29f6"}
+        else if(value == curr.Underground_Wells){return "#ff4e17"}
+        else if(value == curr.Land_Treatment){return "#ff246d"}
+        else if(value == curr.Surface_Impoundment){return "#3e30f9"}
+        else return "none"
     }
     
     function FacilityButton({name, facility, setCurrFacility, current}){
@@ -66,17 +70,18 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
     useEffect (() => {
 
         setDescription("Shows what methods the most polluting facilities are using to get rid of waste.")
+        const currentData = facilityTotalsTop.filter((element) => element.Facility == currFacility)
 
         setContent({
-            T1: "",
-            D1: "---",
-            T2: "",
+            T1: "Facility:",
+            D1: currentData[0].Facility,
+            T2: "Amount Disposed:",
             D2: "---"})
 
         const svg = d3.select(svgRef.current);
         svg.selectAll("*").remove();
         
-        const currentData = facilityTotalsTop.filter((element) => element.Facility == currFacility)
+        
 
         svg.selectAll("g")
         .data(scaleValues)
@@ -96,10 +101,24 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
             .attr("y", d => (rScale(d) - 2))
             .attr("fill", "#1F2420")
             .attr("text-anchor", "end")
+            .attr("font-size", "18px")
             .text(d => `${d.toLocaleString()} Ibs`)
             .attr("transform", `translate(0, ${svgHeight/2})`)
 
+        svg.selectAll("g")
+            .data(scaleValues)
+            .join("circle")
+                .attr("cx", centerX)
+                .attr("cy", svgHeight/2)
+                .attr("fill", "none")
+                .attr("r", d => rScale(d))
+                .attr("stroke", "#1F2420")
+                .attr("stroke-width", 2)
+
         Object.values(currentData[0]).forEach(element => {
+            if (element <= 1) {return}
+            if (setColor(element, currentData[0]) == "none") {return}
+
             svg.append("circle")
                 .attr("cx", centerX)
                 .attr('cy', svgHeight/2)
@@ -108,6 +127,30 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
                 .attr("r", rScale(element))
                 .attr("stroke", setColor(element, currentData[0]))
                 .attr("stroke-width", 2)
+
+            svg.append("circle")
+                .attr("cx", centerX)
+                .attr('cy', svgHeight/2 + rScale(element))
+                .attr("fill", "#161A17")
+                .attr("stroke", setColor(element, currentData[0]))
+                .attr("stroke-width", 2)
+                .on("mouseover", (event) => {
+                    setContent({
+                        T1: "Facility:",
+                        D1: currentData[0].Facility,
+                        T2: "Amount Disposed:",
+                        D2: `${Math.round(element).toLocaleString()} Ibs`})
+                    d3.select(event.target).attr("fill", setColor(element, currentData[0]))})
+                .on("mouseout", (event) => {
+                    setContent({
+                        T1: "Facility:",
+                        D1: currentData[0].Facility,
+                        T2: "Amount Disposed:",
+                        D2: "---"})
+                        d3.select(event.target).attr("fill", "#161A17")})
+                .transition()
+                .attr("r", 10)
+            
         });
                 
     }, [currFacility, centerX])

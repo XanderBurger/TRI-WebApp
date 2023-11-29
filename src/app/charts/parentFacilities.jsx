@@ -1,6 +1,6 @@
 "use client"
 import * as d3 from "d3";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState} from "react";
 import data from "../assets/data/facilitiesAndParents.json"
 
 const dataByParents = d3.groups(data, d => d.Parent_Co)
@@ -80,6 +80,28 @@ export default function ParentsFacilities({setContent, setDescription}){
         .attr("cy", centerY)
         .attr("fill", "#CD29F6")
         .attr("r", 5)
+
+        svg.selectAll("g")
+        .data(scaleValues)
+        .join("line")
+            .attr("x1", centerX)
+            .attr("x2", svgWidth)
+            .attr("y1", d => (lineScale(d)))
+            .attr("y2", d => (lineScale(d)))
+            .attr("stroke", "#1F2420")
+            .attr("stroke-width", 1)
+            .attr("transform", `translate(0, ${centerY})`)
+
+        svg.selectAll("g")
+        .data(scaleValues)
+        .join("text")
+            .attr("x", svgWidth)
+            .attr("y", d => (lineScale(d) - 2))
+            .attr("fill", "#1F2420")
+            .attr("text-anchor", "end")
+            .attr("font-size", "18px")
+            .text(d => `${d.toLocaleString()} Ibs`)
+            .attr("transform", `translate(0, ${centerY})`)
         
         svg.selectAll("g")
             .data(scaleValues)
