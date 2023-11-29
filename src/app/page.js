@@ -1,9 +1,8 @@
 "use client"
 import Image from 'next/image';
 import { useState } from "react"
-import CardSet from "./card/cardSet"
 import FacilityMap from "./charts/facilityMap"
-import TreeMap from "./charts/chemicalTreemap"
+import TreeMap from "./charts/ChemicalTreemap"
 import ParentFacilities from "./charts/parentFacilities"
 import ChemByFacility from "./charts/chemicalsByFacilities"
 import ProductionRatios from "./charts/productionRatio"
