@@ -15,27 +15,27 @@ import ChangeKey from "./assets/keys/ChangeKey.svg"
 
 const cardContent = [
   {
-    title: "water",
+    title: "Surface Water",
     color: "#0EF1FF",
     content: "Chemicals released as surface water discharge. Meaning chemicals that have either directly or indirectly been released into bodies of water on or off site.",
   },
   {
-    title: "recycled",
+    title: "Recycled",
     color: "#16FF58",
     content: "Chemicals recycled for reuse.",
   },
   {
-    title: "air stack",
+    title: "Air Stack",
     color: "#FF9F0E",
     content: "Chemicals released by air stacks and fumes.",
   },
   {
-    title: "underground Wells",
+    title: "Underground Wells",
     color: "#ff4e17",
     content: "Chemicals that have been pumped deep underground into specialized wells.",
   },
   {
-    title: "land treatment",
+    title: "Land Treatment",
     color: "#ff246d",
     content: "Chemicals that have been applied to the environment as a part of farming practices. Meaning fertilizers, pesticides or herbicides.",
   },
