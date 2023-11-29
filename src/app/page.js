@@ -30,24 +30,24 @@ const cardContent = [
     content: "Chemicals released by air stacks and fumes.",
   },
   {
-    title: "underground",
-    color: "#CD29F6",
-    content: "A release type involving pumping chemicals deep underground into specialized wells.",
+    title: "underground Wells",
+    color: "#ff4e17",
+    content: "Chemicals that have been pumped deep underground into specialized wells.",
   },
   {
     title: "land treatment",
-    color: "#FF2056",
+    color: "#ff246d",
     content: "Chemicals that have been applied to the environment as a part of farming practices. Meaning fertilizers, pesticides or herbicides.",
   },
   {
-    title: "Surface",
-    color: "#ff20b8",
-    content: "Chemicals that have been applied to the environment as a part of farming practices. Meaning fertilizers, pesticides or herbicides.",
+    title: "Surface Impoundment",
+    color: "#3e30f9",
+    content: "A surface impoundment uses natural topographic depressions, man-made excavations, or diked areas for temporary storage or treatment of liquid hazardous waste. Examples include ponds, pits and lagoons such as: Holding ponds. Storage pits.",
   },
   {
     title: "Landfill",
-    color: "#20ffa6",
-    content: "Chemicals that have been applied to the environment as a part of farming practices. Meaning fertilizers, pesticides or herbicides.",
+    color: "#cd29f6",
+    content: "Chemicals that have been disposed in landfills off site.",
   }
 ]
 

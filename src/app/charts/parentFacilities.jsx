@@ -146,7 +146,6 @@ export default function ParentsFacilities({setContent, setDescription}){
                         D1: "---",
                         T2: "Amount Disposed:",
                         D2: "---"})
-
                     d3.select(event.target).attr("fill-opacity", .25)})
                 .attr("transform", `rotate(${rotation}, ${centerX}, ${centerY})`)
                 .transition()
