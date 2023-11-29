@@ -50,6 +50,12 @@ export default function ParentsFacilities({setContent, setDescription}){
     const [showDropdown, setShowDropdown] = useState(false)
     const [currParent, setCurrParent] = useState(0)
     const [currentText, setCurrentText] = useState(topData[0][0][0])
+    const [showSymbol, setShowSymbol] = useState("+")
+
+    useEffect(() => { 
+        let newSymbol = showDropdown ? "–": "+"
+        setShowSymbol(newSymbol)
+    }, [showDropdown])
 
     function ParentButton({name, parentIndex, setCurrParent, currentIndex}){
         const selectedStyle = "rounded-xl bg-warm-white font-satoshi text-[10px] m-2 p-2  pl-0 text-gray-green font-[800]"
@@ -162,8 +168,9 @@ export default function ParentsFacilities({setContent, setDescription}){
     return(
         <div className="grid auto-rows-min gap-y-4"> 
                <div className="">
-               <div onClick={() => setShowDropdown(!showDropdown)} className="rounded-xl bg-gray-green text-warm-white p-4">
-                    {currentText}
+               <div onClick={() => setShowDropdown(!showDropdown)} className="rounded-xl grid grid-cols-4 bg-gray-green text-warm-white p-4">
+                    <p className="col-span-3 self-center">{currentText}</p>
+                    <p className="col-span-1 justify-self-end font-[900] self-center text-2xl text-bright-purple">{showSymbol}</p> 
                 </div>
                     {showDropdown && ParentButtons}
                 </div>

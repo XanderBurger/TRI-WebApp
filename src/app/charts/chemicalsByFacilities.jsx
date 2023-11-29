@@ -34,6 +34,14 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
     const [showDropdown, setShowDropdown] = useState(false)
     const [currentText, setCurrentText] = useState(facilityTotalsTop[0].Facility)
 
+    const [showSymbol, setShowSymbol] = useState("+")
+
+    useEffect(() => { 
+        let newSymbol = showDropdown ? "–": "+"
+        setShowSymbol(newSymbol)
+    }, [showDropdown])
+
+
     const svgRef = useRef(null)
     const [svgWidth, setSvgWidth] = useState(1000)
     const [centerX, setCenterX] = useState(svgWidth/2)
@@ -158,8 +166,9 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
     return (
         <div className="grid auto-rows-min gap-y-4"> 
             <div className="">
-               <div onClick={() => setShowDropdown(!showDropdown)} className="rounded-xl bg-gray-green text-warm-white p-4">
-                    {currentText}
+                <div onClick={() => setShowDropdown(!showDropdown)} className="rounded-xl grid grid-cols-4 bg-gray-green text-warm-white p-4">
+                    <p className="col-span-3 self-center">{currentText}</p>
+                    <p className="col-span-1 justify-self-end font-[900] self-center text-2xl text-bright-purple">{showSymbol}</p> 
                 </div>
                     {showDropdown && buttons}
                 </div>
