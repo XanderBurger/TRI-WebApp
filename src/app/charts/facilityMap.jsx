@@ -37,7 +37,7 @@ export default function FacilityMap({setContent, setDescription}){
         .data(states.features)
         .join("path")
         .attr("d", geoGenerator)
-        .attr("fill", "#1F2420")
+        .attr("fill", "#252d26")
         .attr("stroke", "#161A17")
 
         svg.selectAll("g")
@@ -56,14 +56,14 @@ export default function FacilityMap({setContent, setDescription}){
                     T2: "Amount Disposed:",
                     D2: `${Math.round(i.properties.Total).toLocaleString()} Ibs`})
                 d3.select(d.target)
-                .transition()
-                .duration(200)
+                // .transition()
+                // .duration(200)
                 .attr("fill-opacity", 1)
             })
             .on("mouseout",  (d, i) => {
                 d3.select(d.target)
-                .transition()
-                .duration(200)
+                // .transition()
+                // .duration(200)
                 .attr("fill-opacity", 0.25)  
                 
                 setContent({

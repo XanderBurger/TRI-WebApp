@@ -98,7 +98,7 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
             .attr("x2", svgWidth)
             .attr("y1", d => (rScale(d)))
             .attr("y2", d => (rScale(d)))
-            .attr("stroke", "#1F2420")
+            .attr("stroke", "#252d26")
             .attr("stroke-width", 1)
             .attr("transform", `translate(0, ${svgHeight/2})`)
 
@@ -107,7 +107,7 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
         .join("text")
             .attr("x", svgWidth)
             .attr("y", d => (rScale(d) - 2))
-            .attr("fill", "#1F2420")
+            .attr("fill", "#252d26")
             .attr("text-anchor", "end")
             .attr("font-size", "18px")
             .text(d => `${d.toLocaleString()} Ibs`)
@@ -157,6 +157,7 @@ export default function ChemicalsByFacilities({setContent, setDescription}) {
                         D2: "---"})
                         d3.select(event.target).attr("fill", "#161A17")})
                 .transition()
+                .duration(500)
                 .attr("r", 10)
             
         });

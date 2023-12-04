@@ -94,7 +94,7 @@ export default function ParentsFacilities({setContent, setDescription}){
             .attr("x2", svgWidth)
             .attr("y1", d => (lineScale(d)))
             .attr("y2", d => (lineScale(d)))
-            .attr("stroke", "#1F2420")
+            .attr("stroke", "#252d26")
             .attr("stroke-width", 1)
             .attr("transform", `translate(0, ${centerY})`)
 
@@ -103,7 +103,7 @@ export default function ParentsFacilities({setContent, setDescription}){
         .join("text")
             .attr("x", svgWidth)
             .attr("y", d => (lineScale(d) - 2))
-            .attr("fill", "#1F2420")
+            .attr("fill", "#252d26")
             .attr("text-anchor", "end")
             .attr("font-size", "18px")
             .text(d => `${d.toLocaleString()} Ibs`)
@@ -129,6 +129,7 @@ export default function ParentsFacilities({setContent, setDescription}){
                 .attr("d", `M ${centerX} ${centerY} v 0`)
                 .attr("stroke-width", 1)
                 .transition()
+                .duration(500)
                 .attr("d", `M ${centerX} ${centerY} v${-lineScale(e[1])}`)
 
             svg.append("circle")
@@ -155,6 +156,7 @@ export default function ParentsFacilities({setContent, setDescription}){
                     d3.select(event.target).attr("fill-opacity", .25)})
                 .attr("transform", `rotate(${rotation}, ${centerX}, ${centerY})`)
                 .transition()
+                .duration(500)
                 .attr("r", 10)
         
             rotation += rotationAmount

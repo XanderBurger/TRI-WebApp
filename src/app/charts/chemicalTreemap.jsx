@@ -47,15 +47,15 @@ export default function ChemicalTreemap({setContent, setDescription}) {
                 } )
             .attr("fill-opacity", .25)
             .attr("stroke", d => {
-                return "#cd29f6"
-                // if(d.data.DisposalType === "Recycled") {return "#16FF58"}
-                // else if(d.data.DisposalType === "Landfill") {return "#20ffa6"}
-                // else if(d.data.DisposalType === "Underground Wells") {return "#CD29F6"}
-                // else if(d.data.DisposalType === "Air") {return "#FF9F0E"}
-                // else if(d.data.DisposalType === "Water") {return "#0EF1FF"}
-                // else if(d.data.DisposalType === "Land Treatment") {return "#FF2056"}
-                // else if(d.data.DisposalType === "Surface Impoundment") {return "#ff20b8"}
-                } )
+                if(d.data.DisposalType === "Recycled") {return "#16FF58"}
+                else if(d.data.DisposalType === "Landfill") {return "#cd29f6"}
+                else if(d.data.DisposalType === "Underground Wells") {return "#ff4e17"}
+                else if(d.data.DisposalType === "Air") {return "#FF9F0E"}
+                else if(d.data.DisposalType === "Water") {return "#0EF1FF"}
+                else if(d.data.DisposalType === "Land Treatment") {return "#ff246d"}
+                else if(d.data.DisposalType === "Surface Impoundment") {return "#3e30f9"}
+                })
+            .attr("rx", 15)
             .attr("stroke-width", 1)
             .transition()
             .duration(1000)
@@ -72,8 +72,8 @@ export default function ChemicalTreemap({setContent, setDescription}) {
                     D2: `${Math.round(i.data.Amount).toLocaleString()} Ibs`})
 
                 d3.select(d.target)
-                .transition()
-                .duration(200)
+                // .transition()
+                // .duration(200)
                 .attr("fill-opacity", 1)
             })
             .on("mouseout",  (d, i) => {
@@ -85,8 +85,8 @@ export default function ChemicalTreemap({setContent, setDescription}) {
                     D2: "---"})
 
                 d3.select(d.target)
-                .transition()
-                .duration(200)
+                // .transition()
+                // .duration(200)
                 .attr("fill-opacity", 0.25)                
             })  
     }, [])
